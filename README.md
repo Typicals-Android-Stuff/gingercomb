@@ -1,9 +1,7 @@
 Honeycomb Restoration Project (Froyocomb)
 ===========
 
-This repository contains reconstructed manifests of early Honeycomb builds. As of now, one build, HRG85C from September 27nd, 2011 was reconstructed.
-
-<img width="70%" height="70%" alt="Screenshot of HRG85C" src="https://github.com/user-attachments/assets/61188d77-6b4e-4051-acbf-fee3fbe692f4" />
+This repository contains reconstructed manifests of early Honeycomb builds. As of now, two builds, HRG85C from September 27th and HRH27 from October 27th, 2010 were reconstructed.
 
 Getting Started
 ---------------
