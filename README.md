@@ -19,7 +19,7 @@ familiar with [Git and Repo](http://source.android.com/source/using-repo.html).
 
 To initialize your local repository using the Android trees, use a command like this:
 
-    repo init -u https://github.com/Typicals-Android-Stuff/froyocomb -b HRG85C
+    repo init -u https://github.com/Typicals-Android-Stuff/froyocomb -b HRH54C
 
 Then to sync up:
 
