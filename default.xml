@@ -199,8 +199,8 @@
   <project name="platform/system/extras" path="system/extras" revision="b5f6c6605b02945070a5de0987b6d50c0d3841d8"/>
   <project name="platform/system/media" path="system/media" revision="f44d15deef27ea81ab1bbb72e8c9917953e7b7f3"/>
   <project name="platform/system/netd" path="system/netd" revision="ff2c0d8c13457e43f0d4bf06d3177271aac104c1"/>
-  <!-- [HRH83D] reverted afterwards by 5fb760a63ca3b8a2b282b8c642508d998706bbd0 -->
-  <project name="platform/system/vold" path="system/vold" revision="499806cd60cd45b8cc9ae669b3d49507e04ffc0f"/>
+  <!-- [HRH83D] would've been 499806cd60cd45b8cc9ae669b3d49507e04ffc0f, reverted afterwards by 5fb760a63ca3b8a2b282b8c642508d998706bbd0 -->
+  <project name="platform/system/vold" path="system/vold" revision="8f869aa1bc685b505c58e97b4e11a9c7491a16f9"/>
   <!-- [HRH83D] did not survive 4.0 -->
   <project name="platform/system/wlan/ti" path="system/wlan/ti" revision="3baca6cc248e0d9a852c25b214c92bc856ae03ea"/>
   <!-- [HRH83D] not present until 5.0 -->
