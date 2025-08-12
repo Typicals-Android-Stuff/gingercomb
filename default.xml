@@ -129,6 +129,7 @@
   <project name="platform/external/xmlwriter" path="external/xmlwriter" revision="e95d92246ee35273dde2bee8b00485cc14c12be5" />
   <project name="platform/external/yaffs2" path="external/yaffs2" revision="6232e2d5ab34a40d710e4b05ab0ec6e3727804e7"/>
   <project name="platform/external/zlib" path="external/zlib" revision="96c70b1df1629d7f0eb8f666045bfd5eb062cebf"/>
+  <!-- [HRH83D] this is on GitHub due to an incident -->
   <project name="lwys-trash-oct23/froyocomb-platform_frameworks_base" remote="github" path="frameworks/base" revision="honeycomb-release_HRH83D_fix_v2"/>
   <project name="platform/frameworks/ex" path="frameworks/ex" revision="b2afcf55a1aa70020510550fd6d48726c41b5cf5"/>
   <project name="platform/frameworks/compile/libbcc" path="frameworks/compile/libbcc" revision="d161309b8a97921cdccd34306ee7e7585fa93ad6"/>
@@ -197,7 +198,7 @@
   <project name="platform/prebuilt" path="prebuilt" revision="1d86a404f0d4fff1fd3a59ae8c536a24a73f4223"/>
   <project name="platform/sdk" path="sdk" revision="d41056081f297a78fcc3763e194138351e6a4481"/>
   <project name="platform/system/bluetooth" path="system/bluetooth" revision="d15a37448edcc1bd314873732ce5f3ea7ddad4ba"/>
-  <!-- [HRH83D] avoid netlink change used by broken vold -->
+  <!-- [HRH83D] avoid netlink change used by broken vold & cherry pick some bugfixes from early jan -->
   <project name="Typicals-Android-Stuff/froyocomb-platform_system_core" remote="github" path="system/core" revision="honeycomb-release_HRH83D_fix"/>
   <project name="platform/system/extras" path="system/extras" revision="b5f6c6605b02945070a5de0987b6d50c0d3841d8"/>
   <project name="platform/system/media" path="system/media" revision="f44d15deef27ea81ab1bbb72e8c9917953e7b7f3"/>
