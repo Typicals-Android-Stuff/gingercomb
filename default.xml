@@ -34,7 +34,7 @@
   <project name="platform/external/bsdiff" path="external/bsdiff" revision="df980d633fd0bdc0b89af26630f543d91bb87e68"/>
   <project name="platform/external/bzip2" path="external/bzip2" revision="e7bb50078e4a09f3d9b593d34bbff6e031bc1c1a"/>
   <project name="platform/external/chromium" path="external/chromium" revision="06741cbc25cd4227a9fba40dfd0273bfcc1a587a"/>
-  <project name="platform/external/clang" path="external/clang" revision="94123d2d6164c19fe11d639459a054455f2ee887"/>
+  <project name="platform/external/clang" path="external/llvm/tools/clang" revision="94123d2d6164c19fe11d639459a054455f2ee887"/>
   <project name="platform/external/dbus" path="external/dbus" revision="ff2325c92c411e6718ae38d6976f54580ed57e86"/>
   <project name="platform/external/dhcpcd" path="external/dhcpcd" revision="3698b204069c11616d6edfe2fb26d268e60242d3"/>
   <project name="platform/external/dnsmasq" path="external/dnsmasq" revision="1b25960ebe33754410ba3c663c1c45662c779381"/>
@@ -77,7 +77,7 @@
   <project name="platform/external/libvpx" path="external/libvpx" revision="aaad6d1b54850d18f835624e416e0c6cacb88a1f"/>
   <project name="platform/external/libxml2" path="external/libxml2" revision="af58ee130fe9eec14a0b8c6f6f3cdf7e7ec37872"/>
   <project name="platform/external/libxslt" path="external/libxslt" revision="d9120218522dc5da663e78996d0f042c0a62bc5e"/>
-  <project name="platform/external/llvm" path="external/llvm" revision="5183d48d560ae7c0c548bc23eb0101784cfd664d"/>
+  <project name="platform/external/llvm" path="external/llvm/llvm" revision="5183d48d560ae7c0c548bc23eb0101784cfd664d"/>
   <project name="platform/external/mtpd" path="external/mtpd" revision="fccbc17685cd8bd43cf1c1e533c4d02f6f79d667"/>
   <project name="platform/external/netcat" path="external/netcat" revision="fc2dc55c510657073ef4235658167a878e82cefa"/>
   <project name="platform/external/netperf" path="external/netperf" revision="58ecd3b7c76263900e38921360e334a416aec362"/>
