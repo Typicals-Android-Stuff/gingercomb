@@ -34,7 +34,7 @@
   <project name="platform/external/bsdiff" path="external/bsdiff" revision="df980d633fd0bdc0b89af26630f543d91bb87e68"/>
   <project name="platform/external/bzip2" path="external/bzip2" revision="e7bb50078e4a09f3d9b593d34bbff6e031bc1c1a"/>
   <project name="platform/external/chromium" path="external/chromium" revision="06741cbc25cd4227a9fba40dfd0273bfcc1a587a"/>
-  <project name="platform/external/clang" path="external/llvm/tools/clang" revision="94123d2d6164c19fe11d639459a054455f2ee887"/>
+  <project name="platform/external/clang" path="external/llvm/llvm/tools/clang" revision="94123d2d6164c19fe11d639459a054455f2ee887"/>
   <project name="platform/external/dbus" path="external/dbus" revision="ff2325c92c411e6718ae38d6976f54580ed57e86"/>
   <project name="platform/external/dhcpcd" path="external/dhcpcd" revision="3698b204069c11616d6edfe2fb26d268e60242d3"/>
   <project name="platform/external/dnsmasq" path="external/dnsmasq" revision="1b25960ebe33754410ba3c663c1c45662c779381"/>
@@ -84,7 +84,7 @@
   <project name="platform/external/neven" path="external/neven" revision="7164d6ac08ab9fc1247aa29f1dafd0ef7808f0f2"/>
   <project name="platform/external/nist-sip" path="external/nist-sip" revision="9c0e76beae15ce3ef27507b6b32a75ab78c6b836"/>
   <project name="platform/external/oauth" path="external/oauth" revision="c76276a1d6165cfb502b06f65b1735fef0754d26"/>
-  <project name="platform/external/opencore" path="external/opencore" revision="96f6f2bfc1797ff684916dc9b57c7c03d99f49b1"/>
+  <project name="platform/external/opencore" path="external/opencore" revision="61bf9af643abf0011dcf82ae8a436aeb7e8aae97"/>
   <project name="platform/external/openssl" path="external/openssl" revision="16893bfbf2ae888cdd125e98ea2bfb7e26e4c48c"/>
   <project name="platform/external/oprofile" path="external/oprofile" revision="c4ad4bafe1bc1c9e92be1995c288ff89eb7b191e"/>
   <project name="platform/external/ping" path="external/ping" revision="f35ea57ab6d01badde92491274ff2d74cbe3cf01"/>
