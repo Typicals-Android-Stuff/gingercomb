@@ -195,6 +195,7 @@
   <project name="platform/prebuilt" path="prebuilt" revision="1d86a404f0d4fff1fd3a59ae8c536a24a73f4223"/>
   <project name="platform/sdk" path="sdk" revision="cbfbdbbe7cd6bf46c49579f05710ec661016a57b"/>
   <project name="platform/system/bluetooth" path="system/bluetooth" revision="d15a37448edcc1bd314873732ce5f3ea7ddad4ba"/>
+  <!-- [HRH83D] avoid netlink change used by broken vold -->
   <project name="platform/system/core" path="system/core" revision="eb9f6b64b14ad08dbf4880d522464d886f8d99f2"/>
   <project name="platform/system/extras" path="system/extras" revision="b5f6c6605b02945070a5de0987b6d50c0d3841d8"/>
   <project name="platform/system/media" path="system/media" revision="f44d15deef27ea81ab1bbb72e8c9917953e7b7f3"/>
