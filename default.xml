@@ -144,7 +144,7 @@
   <project name="platform/packages/apps/Gallery3D" path="packages/apps/Gallery3D" revision="92841eda9d138f7d0001237aab1e91e37d19126e"/>
   <project name="platform/packages/apps/HTMLViewer" path="packages/apps/HTMLViewer" revision="483f7bc8720b031b421e399963d11a92b892e5d4"/>
   <project name="platform/packages/apps/Launcher2" path="packages/apps/Launcher2" revision="df7c3a7853abd4dec460247370fe0b17b50866ac"/>
-  <project name="platform/packages/apps/Mms" path="packages/apps/Mms" revision="d4ab73b7483ba8a92a96235474070fbf5c10244c"/>
+  <project name="platform/packages/apps/Mms" path="packages/apps/Mms" revision="b78c3397549f408589d9d6fd83c3b4ee0bd767a7"/>
   <project name="platform/packages/apps/Music" path="packages/apps/Music" revision="05f5bd5cadee488840ce0d3dbfbbd5f9e1f26043"/>
   <project name="platform/packages/apps/PackageInstaller" path="packages/apps/PackageInstaller" revision="a379e13559be314fa9021638e5721df13a2f4ffb"/>
   <project name="platform/packages/apps/Phone" path="packages/apps/Phone" revision="3c91c737d0eba538b42f4856e6ccbd50881a540f"/>
@@ -166,7 +166,7 @@
   <project name="platform/packages/providers/DownloadProvider" path="packages/providers/DownloadProvider" revision="471b6c041bf6c2841dec96548c45a8b77d35dac0"/>
   <project name="platform/packages/providers/DrmProvider" path="packages/providers/DrmProvider" revision="b03532e8edf572d63c6a59a0b40b1d329b7cdf66"/>
   <project name="platform/packages/providers/GoogleContactsProvider" path="packages/providers/GoogleContactsProvider" revision="4886c7a0cfba5df74b213b1fc8286c6e3f2ddaa2"/>
-  <project name="platform/packages/providers/MediaProvider" path="packages/providers/MediaProvider" revision="9114b186ffb26cf0ec6af6eb01ccdf47228a355f"/>
+  <project name="platform/packages/providers/MediaProvider" path="packages/providers/MediaProvider" revision="804f5fe841d4a96f9335ea60d60853352f726227"/>
   <project name="platform/packages/providers/TelephonyProvider" path="packages/providers/TelephonyProvider" revision="aff729ecc4149890b48b3b96d76965f9098e9a29"/>
   <project name="platform/packages/providers/UserDictionaryProvider" path="packages/providers/UserDictionaryProvider" revision="dcb7a354832c50861ffa866d4d4a2c9b33eea746"/>
   <project name="platform/packages/wallpapers/Basic" path="packages/wallpapers/Basic" revision="8e49a3c7e029944074084bf8ea884dca3bf240ee"/>
