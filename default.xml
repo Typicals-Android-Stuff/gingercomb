@@ -182,5 +182,4 @@
   <project name="platform/system/netd" path="system/netd" revision="7826bd095a7ecfd642524cfd93a39a52986b73fc"/>
   <project name="platform/system/vold" path="system/vold" revision="2c7d5761d28c39c8e40bf06874f2f5ca92f726d0"/>
   <project name="platform/system/wlan/ti" path="system/wlan/ti" revision="3baca6cc248e0d9a852c25b214c92bc856ae03ea"/>
-  <project name="platform/tools/tradefederation" path="tools/tradefederation" revision="bd87defde9064a47c57882970d02b803cad73e5f"/>
 </manifest>
