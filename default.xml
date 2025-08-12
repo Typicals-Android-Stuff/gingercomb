@@ -129,7 +129,7 @@
   <project name="platform/external/xmlwriter" path="external/xmlwriter" revision="e95d92246ee35273dde2bee8b00485cc14c12be5" />
   <project name="platform/external/yaffs2" path="external/yaffs2" revision="6232e2d5ab34a40d710e4b05ab0ec6e3727804e7"/>
   <project name="platform/external/zlib" path="external/zlib" revision="96c70b1df1629d7f0eb8f666045bfd5eb062cebf"/>
-  <project name="lwys-trash-oct23/froyocomb-platform_frameworks_base" remote="github" path="frameworks/base" revision="honeycomb-release_HRH83D_fix"/>
+  <project name="lwys-trash-oct23/froyocomb-platform_frameworks_base" remote="github" path="frameworks/base" revision="honeycomb-release_HRH83D_fix_v2"/>
   <project name="platform/frameworks/ex" path="frameworks/ex" revision="b2afcf55a1aa70020510550fd6d48726c41b5cf5"/>
   <project name="platform/frameworks/compile/libbcc" path="frameworks/compile/libbcc" revision="d161309b8a97921cdccd34306ee7e7585fa93ad6"/>
   <project name="platform/frameworks/compile/slang" path="frameworks/compile/slang" revision="aa180e98d5209fb44e7d5ecaec758be4a43078cd"/>
