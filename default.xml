@@ -180,7 +180,7 @@
   <project name="platform/system/core" path="system/core" revision="cb020611f950a326599a1b9b7676b148d51fb772"/>
   <project name="platform/system/extras" path="system/extras" revision="6ca26ef8a78cc46dd8c779dcd7c611a247dd22c7"/>
   <project name="platform/system/media" path="system/media" revision="dc098b54cd7df1b79b4560ae0570d88e4b9f751e"/>
-  <project name="platform/system/netd" path="system/netd" revision="7826bd095a7ecfd642524cfd93a39a52986b73fc"/>
+  <project name="platform/system/netd" path="system/netd" revision="a783390cc37cc8321fe695ba95ffaa5b6a2ed05b"/>
   <project name="platform/system/vold" path="system/vold" revision="2c7d5761d28c39c8e40bf06874f2f5ca92f726d0"/>
   <project name="platform/system/wlan/ti" path="system/wlan/ti" revision="3baca6cc248e0d9a852c25b214c92bc856ae03ea"/>
 </manifest>
