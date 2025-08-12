@@ -34,7 +34,7 @@
   <project name="platform/external/bsdiff" path="external/bsdiff" revision="df980d633fd0bdc0b89af26630f543d91bb87e68"/>
   <project name="platform/external/bzip2" path="external/bzip2" revision="e7bb50078e4a09f3d9b593d34bbff6e031bc1c1a"/>
   <project name="platform/external/chromium" path="external/chromium" revision="06741cbc25cd4227a9fba40dfd0273bfcc1a587a"/>
-  <project name="platform/external/clang" path="external/clang" revision="ecc840bb72f24508cd150ef792b7afdeef1e17b0"/>
+  <project name="platform/external/clang" path="external/clang" revision="94123d2d6164c19fe11d639459a054455f2ee887"/>
   <project name="platform/external/dbus" path="external/dbus" revision="ff2325c92c411e6718ae38d6976f54580ed57e86"/>
   <project name="platform/external/dhcpcd" path="external/dhcpcd" revision="3698b204069c11616d6edfe2fb26d268e60242d3"/>
   <project name="platform/external/dnsmasq" path="external/dnsmasq" revision="1b25960ebe33754410ba3c663c1c45662c779381"/>
@@ -77,7 +77,7 @@
   <project name="platform/external/libvpx" path="external/libvpx" revision="aaad6d1b54850d18f835624e416e0c6cacb88a1f"/>
   <project name="platform/external/libxml2" path="external/libxml2" revision="af58ee130fe9eec14a0b8c6f6f3cdf7e7ec37872"/>
   <project name="platform/external/libxslt" path="external/libxslt" revision="d9120218522dc5da663e78996d0f042c0a62bc5e"/>
-  <project name="platform/external/llvm" path="external/llvm" revision="37ce5650e60979fe3b02cabbd6724cc2c8fe463e"/>
+  <project name="platform/external/llvm" path="external/llvm" revision="5183d48d560ae7c0c548bc23eb0101784cfd664d"/>
   <project name="platform/external/mtpd" path="external/mtpd" revision="fccbc17685cd8bd43cf1c1e533c4d02f6f79d667"/>
   <project name="platform/external/netcat" path="external/netcat" revision="fc2dc55c510657073ef4235658167a878e82cefa"/>
   <project name="platform/external/netperf" path="external/netperf" revision="58ecd3b7c76263900e38921360e334a416aec362"/>
@@ -128,7 +128,7 @@
   <project name="platform/hardware/ril" path="hardware/ril" revision="bf14edddd5d1c29a046130cea65feab8c6e2e12b"/>
   <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" revision="5b4e15459062e151f277c6600ae2d2f6c1d20213"/>
   <project name="platform/hardware/ti/wlan" path="hardware/ti/wlan" revision="652eb8d0d0417993ad841e70260e62360ab19c15"/>
-  <project name="platform/libcore" path="libcore" revision="1edc810119e161a5c5791f3212d8b15b77ff045b"/>
+  <project name="platform/libcore" path="libcore" revision="9c1e9452456e1634744d79e61ebe265eb15c7262"/>
   <project name="platform/ndk" path="ndk" revision="6b5bc468b9be34c7dbd4531274bb1a2d55542731"/>
   <project name="platform/packages/apps/AccountsAndSyncSettings" path="packages/apps/AccountsAndSyncSettings" revision="46f880c87cd2a8e3ca5c259a9babc24850ddf746"/>
   <project name="platform/packages/apps/Bluetooth" path="packages/apps/Bluetooth" revision="e699ee4ed89f2d33c7566a57b3ebebb3df12e5aa"/>
