@@ -43,7 +43,7 @@
   <project name="platform/external/e2fsprogs" path="external/e2fsprogs" revision="61ef2474c24c80a5bf0e24ba85a7506fd7651a5c"/>
   <project name="platform/external/easymock" path="external/easymock" revision="cef83e796d0ab91f15a22f2eb837fce7cb8fe9c9"/>
   <project name="platform/external/elfcopy" path="external/elfcopy" revision="83a9e97f988380cb719825bcb054aa64455d7207"/>
-  <project name="platform/external/elfutils" path="external/elfutils" revision="932585d2385c9d4e5686e4ddc9ba30c68172d7f3"/>
+  <project name="platform/external/elfutils" path="external/elfutils" revision="84cf4183ba6f577ee01abe7f1f5a6d4b23df35a8"/>
   <project name="platform/external/embunit" path="external/embunit" revision="f5eb8b0c9abf1e9911b5c84a555bc495651595e5"/>
   <project name="platform/external/emma" path="external/emma" revision="4d37e21b7c2fa378dbf7cfe2ea57d7f5991fe6cd"/>
   <project name="platform/external/esd" path="external/esd" revision="224a67f2683a7ee997179fc5dd16115e39987b0f"/>
@@ -73,9 +73,9 @@
   <project name="platform/external/libffi" path="external/libffi" revision="84e8de6e9fc19388f6f1102c013b7d0d52940ecc"/>
   <project name="platform/external/libpcap" path="external/libpcap" revision="7f1c9ba7adbc0a8bdda832b406cdfcf02cd80dae"/>
   <project name="platform/external/libphonenumber" path="external/libphonenumber" revision="f59ccfca9dd02c4e3cf3e06b5cf184a8d0e67626"/>
-  <project name="platform/external/libpng" path="external/libpng" revision="9a5c1c180fa2f6fa76bb7940c05a657e0af64dbc"/>
-  <project name="platform/external/libvpx" path="external/libvpx" revision="aaad6d1b54850d18f835624e416e0c6cacb88a1f"/>
-  <project name="platform/external/libxml2" path="external/libxml2" revision="af58ee130fe9eec14a0b8c6f6f3cdf7e7ec37872"/>
+  <project name="platform/external/libpng" path="external/libpng" revision="1c5f8c054976e6a55f07375508858044d7f4c6aa"/>
+  <project name="platform/external/libvpx" path="external/libvpx" revision="8aa17fc40a750935d80b115d89ca9403f42ab211"/>
+  <project name="platform/external/libxml2" path="external/libxml2" revision="f2da8ef9b4e7243c19e295fed847fa897e8230d3"/>
   <project name="platform/external/libxslt" path="external/libxslt" revision="d9120218522dc5da663e78996d0f042c0a62bc5e"/>
   <project name="platform/external/llvm" path="external/llvm/llvm" revision="5183d48d560ae7c0c548bc23eb0101784cfd664d"/>
   <project name="platform/external/mtpd" path="external/mtpd" revision="fccbc17685cd8bd43cf1c1e533c4d02f6f79d667"/>
