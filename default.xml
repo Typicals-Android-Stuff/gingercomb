@@ -18,6 +18,7 @@
   <project name="platform/bootable/bootloader/legacy" path="bootable/bootloader/legacy" revision="d3271024770ddcc2fb87dd22f8280764545ab05a"/>
   <project name="platform/bootable/diskinstaller" path="bootable/diskinstaller" revision="2568437271daf668b69fa866cc6f38bc3cd888e5"/>
   <project name="platform/bootable/recovery" path="bootable/recovery" revision="70f7e8dbf0c56f55bdeb2fe563c4f49da165d16d"/>
+  <!-- [HRH83D] C is 624d910d3655f8d0bc2b615d2f37c2314a963818 -->
   <project name="platform/build" path="build" revision="ab2f01b855f632a8c8315c9fe3c3f13e3932d8a8">
     <copyfile dest="Makefile" src="core/root.mk"/>
   </project>
@@ -121,7 +122,8 @@
   <project name="platform/external/tinyxml" path="external/tinyxml" revision="d589f7e4a51e75bd5c98a3defd8ee84d7059e86e"/>
   <project name="platform/external/tremolo" path="external/tremolo" revision="ef03ae17fcbd7474f839cc2fee27a58369cf41dd"/>
   <project name="platform/external/v8" path="external/v8" revision="8a31eba00023874d4a1dcdc5f411cc4336776874"/>
-  <project name="platform/external/webkit" path="external/webkit" revision="9af72e6bb7d4c24f070d6b7a8c839ac92b971568"/>
+  <!-- [HRH83D] IDK when 9af72e6bb7d4c24f070d6b7a8c839ac92b971568 got in -->
+  <project name="platform/external/webkit" path="external/webkit" revision="b956b5febfa4032d920377884b2a5fb0c11daad0"/>
   <project name="platform/external/wpa_supplicant" path="external/wpa_supplicant" revision="92202cf7a2e615b65e892aa8f633b469ddcb522e"/>
   <project name="platform/external/wpa_supplicant_6" path="external/wpa_supplicant_6" revision="3ae4d7ced8d9d72b0432a476abdecda77f766c66"/>
   <project name="platform/external/xmlwriter" path="external/xmlwriter" revision="e95d92246ee35273dde2bee8b00485cc14c12be5" />
@@ -192,8 +194,8 @@
   <project name="platform/packages/wallpapers/LivePicker" path="packages/wallpapers/LivePicker" revision="3cd852461ad2bd4a927eb39a2d8c5ea1b90d8b5e"/>
   <project name="platform/packages/wallpapers/MagicSmoke" path="packages/wallpapers/MagicSmoke" revision="93e6fb8d6b74f8be0768e70631daddb93c5a8cda"/>
   <project name="platform/packages/wallpapers/MusicVisualization" path="packages/wallpapers/MusicVisualization" revision="4341cb656df71c56ea15d17d0119cbb4407a6858"/>
-  <project name="platform/prebuilt" path="prebuilt" revision="1d86a404f0d4fff1fd3a59ae8c536a24a73f4223"/>
-  <project name="platform/sdk" path="sdk" revision="cbfbdbbe7cd6bf46c49579f05710ec661016a57b"/>
+  <project name="platform/prebuilt" path="prebuilt" revision="4b9993cc293bfef0bb0114e9b238a1773fcff1d3"/>
+  <project name="platform/sdk" path="sdk" revision="94d693974abe5ad18d2c228f97806c8fa5a55ece"/>
   <project name="platform/system/bluetooth" path="system/bluetooth" revision="d15a37448edcc1bd314873732ce5f3ea7ddad4ba"/>
   <!-- [HRH83D] avoid netlink change used by broken vold -->
   <project name="platform/system/core" path="system/core" revision="bdd483830d6b18a4840e5b8483bf058f3c4579eb"/>
