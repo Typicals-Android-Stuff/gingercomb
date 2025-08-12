@@ -49,14 +49,14 @@
   <project name="platform/external/esd" path="external/esd" revision="224a67f2683a7ee997179fc5dd16115e39987b0f"/>
   <project name="platform/external/expat" path="external/expat" revision="f04cbb87d94e4751d201d07a68302b71766ebb19"/>
   <project name="platform/external/fdlibm" path="external/fdlibm" revision="8bc97822f854f7d521c8bcaa42574fa8cfa51395"/>
-  <project name="platform/external/freetype" path="external/freetype" revision="ff8c8b2dfd829fd7b352355cbaf0052a998cc09d"/>
+  <project name="platform/external/freetype" path="external/freetype" revision="f2873c598230898219f9481ffb43edc5e4d3f806"/>
   <project name="platform/external/fsck_msdos" path="external/fsck_msdos" revision="59ae828834dc177c74775cf36cafda4da9927bd9"/>
   <project name="platform/external/genext2fs" path="external/genext2fs" revision="2e672fab1b8935ab6df5c2fc69386fe6b4ade873"/>
   <project name="platform/external/giflib" path="external/giflib" revision="b2597268aef084202a8c349d1cc072c03c6e22eb"/>
   <project name="platform/external/google-diff-match-patch" path="external/google-diff-match-patch" revision="cecbe12841337860291c2d6a5728b681ec5fca2a"/>
   <project name="platform/external/grub" path="external/grub" revision="a0be411871f2e71834a2cd75dea882d732557530"/>
   <project name="platform/external/gtest" path="external/gtest" revision="75f109c3120bf78ee89124f1f21b50ea24225236"/>
-  <project name="platform/external/guava" path="external/guava" revision="4211cf3a0e11ba822a37ebd45a149cd959015f8c"/>
+  <project name="platform/external/guava" path="external/guava" revision="2dd064ee23f7fa14e0d3583c64129849d165be91"/>
   <project name="platform/external/harfbuzz" path="external/harfbuzz" revision="bc5032157caeb9e460d05f147c010fe9df851f4c"/>
   <project name="platform/external/hyphenation" path="external/hyphenation" revision="2c8b0b3430ee6a9ee501e6cc7921f8790851c286"/>
   <project name="platform/external/icu4c" path="external/icu4c" revision="761516e77d8c607763bddbe9ab5b8a6898c25e4a"/>
@@ -64,7 +64,7 @@
   <project name="platform/external/ipsec-tools" path="external/ipsec-tools" revision="4c7533e7bbe7f25e4ec3afd8325570b04687e846"/>
   <project name="platform/external/iptables" path="external/iptables" revision="0428e5a6541c3f5eaaf683d8da9ea60c44eac4c7"/>
   <project name="platform/external/jdiff" path="external/jdiff" revision="590cef7c1b48c9c3f4556ae65fbc0065d65da54a"/>
-  <project name="platform/external/jhead" path="external/jhead" revision="eb7bd1066e19b5ef048fda5f756c4bb0bc891f30"/>
+  <project name="platform/external/jhead" path="external/jhead" revision="a5d9b7a8d52403b74773fcdd1e155baa48b9a545"/>
   <project name="platform/external/jpeg" path="external/jpeg" revision="cc66ecf44d1407039b05ffd7b3342389f95c17b7"/>
   <project name="platform/external/jsilver" path="external/jsilver" revision="8024e81e2acd5252edd7b40df9f884df99997db5"/>
   <project name="platform/external/jsr305" path="external/jsr305" revision="8e937939899d5fe3a6864c7ecb9bb8632678a7c7"/>
