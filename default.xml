@@ -194,8 +194,8 @@
   <project name="platform/packages/wallpapers/LivePicker" path="packages/wallpapers/LivePicker" revision="3cd852461ad2bd4a927eb39a2d8c5ea1b90d8b5e"/>
   <project name="platform/packages/wallpapers/MagicSmoke" path="packages/wallpapers/MagicSmoke" revision="93e6fb8d6b74f8be0768e70631daddb93c5a8cda"/>
   <project name="platform/packages/wallpapers/MusicVisualization" path="packages/wallpapers/MusicVisualization" revision="4341cb656df71c56ea15d17d0119cbb4407a6858"/>
-  <project name="platform/prebuilt" path="prebuilt" revision="4b9993cc293bfef0bb0114e9b238a1773fcff1d3"/>
-  <project name="platform/sdk" path="sdk" revision="94d693974abe5ad18d2c228f97806c8fa5a55ece"/>
+  <project name="platform/prebuilt" path="prebuilt" revision="1d86a404f0d4fff1fd3a59ae8c536a24a73f4223"/>
+  <project name="platform/sdk" path="sdk" revision="d41056081f297a78fcc3763e194138351e6a4481"/>
   <project name="platform/system/bluetooth" path="system/bluetooth" revision="d15a37448edcc1bd314873732ce5f3ea7ddad4ba"/>
   <!-- [HRH83D] avoid netlink change used by broken vold -->
   <project name="platform/system/core" path="system/core" revision="bdd483830d6b18a4840e5b8483bf058f3c4579eb"/>
