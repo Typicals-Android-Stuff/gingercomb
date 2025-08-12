@@ -82,7 +82,8 @@
   <project name="platform/external/netcat" path="external/netcat" revision="fc2dc55c510657073ef4235658167a878e82cefa"/>
   <project name="platform/external/netperf" path="external/netperf" revision="58ecd3b7c76263900e38921360e334a416aec362"/>
   <project name="platform/external/neven" path="external/neven" revision="7164d6ac08ab9fc1247aa29f1dafd0ef7808f0f2"/>
-  <project name="platform/external/nist-sip" path="external/nist-sip" revision="9c0e76beae15ce3ef27507b6b32a75ab78c6b836"/>
+  <!-- octoberrrrr -->
+  <project name="platform/external/nist-sip" path="external/nist-sip" revision="96f517ad51c3afe83f4d12e78beba1122f5dc877"/>
   <project name="platform/external/oauth" path="external/oauth" revision="c76276a1d6165cfb502b06f65b1735fef0754d26"/>
   <project name="Typicals-Android-Stuff/froyocomb-platform_external_opencore" remote="github" path="external/opencore" revision="honeycomb-release_HRG61_fix"/>
   <project name="platform/external/openssl" path="external/openssl" revision="16893bfbf2ae888cdd125e98ea2bfb7e26e4c48c"/>
@@ -116,7 +117,7 @@
   <project name="platform/frameworks/base" path="frameworks/base" revision="171cac33b5e1432882c024f2d355d9e3a80669e4"/>
   <project name="platform/frameworks/ex" path="frameworks/ex" revision="950b496faf3cbae2a4d08b957cbf6708d2dee8bd"/>
   <project name="platform/frameworks/compile/libbcc" path="frameworks/compile/libbcc" revision="210eb40e3d604293f477aeb15b4a58a598325016"/>
-  <project name="platform/frameworks/compile/slang" path="frameworks/compile/slang" revision="28cf66d9a9f82dc4bd4708db905423d14e101ed6"/>
+  <project name="platform/frameworks/compile/slang" path="external/llvm/slang" revision="28cf66d9a9f82dc4bd4708db905423d14e101ed6"/>
   <project name="platform/frameworks/opt/emoji" path="frameworks/opt/emoji" revision="49f8fa5f480ae382f9087fde333b50072b214ad2"/>
   <project name="platform/frameworks/opt/vcard" path="frameworks/opt/vcard" revision="06ae82316d0b5f7222a7a1d15b7d03df88fdea15"/>
   <project name="platform/hardware/broadcom/wlan" path="hardware/broadcom/wlan" revision="127b347242724f8dad5973449802b451d072fd85"/>
