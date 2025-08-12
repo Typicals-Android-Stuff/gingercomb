@@ -198,7 +198,7 @@
   <project name="platform/sdk" path="sdk" revision="d41056081f297a78fcc3763e194138351e6a4481"/>
   <project name="platform/system/bluetooth" path="system/bluetooth" revision="d15a37448edcc1bd314873732ce5f3ea7ddad4ba"/>
   <!-- [HRH83D] using a newer version due to a bug in init -->
-  <project name="platform/system/core" path="system/core" revision="576e4578d9699ad16fd47612e6f77f342fe4e9e5"/>
+  <project name="platform/system/core" path="system/core" revision="bf10797e538f9fa252d72710bd5ecf0ef1f6f3e0"/>
   <project name="platform/system/extras" path="system/extras" revision="b5f6c6605b02945070a5de0987b6d50c0d3841d8"/>
   <project name="platform/system/media" path="system/media" revision="f44d15deef27ea81ab1bbb72e8c9917953e7b7f3"/>
   <!-- [HRH83D] using a potentially newer version due system/core -->
