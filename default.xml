@@ -77,7 +77,7 @@
   <project name="platform/external/libvpx" path="external/libvpx" revision="9602799cd9ecd0529e291f8d1af951bf2fde787b"/>
   <project name="platform/external/libxml2" path="external/libxml2" revision="af58ee130fe9eec14a0b8c6f6f3cdf7e7ec37872"/>
   <project name="platform/external/libxslt" path="external/libxslt" revision="d9120218522dc5da663e78996d0f042c0a62bc5e"/>
-  <project name="platform/external/llvm" path="external/llvm/llvm" revision="b42da5f2e9a53d9e5903253df889138f42c41824"/>
+  <project name="platform/external/llvm" path="external/llvm/llvm" revision="3e5165a7cc01d28b680a5f409eda72788cb451d3"/>
   <project name="platform/external/mtpd" path="external/mtpd" revision="fccbc17685cd8bd43cf1c1e533c4d02f6f79d667"/>
   <project name="platform/external/netcat" path="external/netcat" revision="fc2dc55c510657073ef4235658167a878e82cefa"/>
   <project name="platform/external/netperf" path="external/netperf" revision="58ecd3b7c76263900e38921360e334a416aec362"/>
