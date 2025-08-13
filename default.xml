@@ -34,7 +34,7 @@
   <project name="platform/external/bsdiff" path="external/bsdiff" revision="df980d633fd0bdc0b89af26630f543d91bb87e68"/>
   <project name="platform/external/bzip2" path="external/bzip2" revision="e7bb50078e4a09f3d9b593d34bbff6e031bc1c1a"/>
   <project name="platform/external/chromium" path="external/chromium" revision="b760f1dadfd21c0cbe1e83203baad8d155685d8b"/>
-  <project name="platform/external/clang" path="external/llvm/llvm/tools/clang" revision="ec29bc0265b0a67e7e47947fd5e0707f46c15d4a"/>
+  <project name="platform/external/clang" path="external/llvm/llvm/tools/clang" revision="ac774a74e9ac234cb38c90ede73b337a8b1a629d"/>
   <project name="platform/external/dbus" path="external/dbus" revision="ff2325c92c411e6718ae38d6976f54580ed57e86"/>
   <project name="platform/external/dhcpcd" path="external/dhcpcd" revision="3698b204069c11616d6edfe2fb26d268e60242d3"/>
   <project name="platform/external/dnsmasq" path="external/dnsmasq" revision="1b25960ebe33754410ba3c663c1c45662c779381"/>
