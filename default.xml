@@ -22,7 +22,7 @@
   </project>
   <project name="platform/cts" path="cts" revision="b6c49d1bb017797ab13ec19db60710a4e1d15f41"/>
   <project name="platform/dalvik" path="dalvik" revision="46c26139945c98b97336ca83058831ffc8791ae1"/>
-  <project name="platform/development" path="development" revision="3031fc39b220e6d450590666512e7d9c3e78ede4"/>
+  <project name="platform/development" path="development" revision="15aeae14a79ca02d9fc4c4a9c155b17210dd69e9"/>
   <project name="platform/external/apache-http" path="external/apache-http" revision="0c8300bccd4d1dfdf6b746d8d89ac526733f0181"/>
   <project name="platform/external/astl" path="external/astl" revision="c3c760978c34d5eeea1205c0bf7f27444e192a98"/>
   <project name="platform/external/bison" path="external/bison" revision="889df9c1efa7ca5de113407ab7793b57a6db677d"/>
@@ -34,7 +34,7 @@
   <project name="platform/external/bsdiff" path="external/bsdiff" revision="df980d633fd0bdc0b89af26630f543d91bb87e68"/>
   <project name="platform/external/bzip2" path="external/bzip2" revision="e7bb50078e4a09f3d9b593d34bbff6e031bc1c1a"/>
   <project name="platform/external/chromium" path="external/chromium" revision="b760f1dadfd21c0cbe1e83203baad8d155685d8b"/>
-  <project name="platform/external/clang" path="external/clang" revision="65d4b0717f8254022b2851ff8321f0a1b1b8c639"/>
+  <project name="platform/external/clang" path="external/clang" revision="eaf466983d13de87da816c6f460663e5dff77398"/>
   <project name="platform/external/dbus" path="external/dbus" revision="ff2325c92c411e6718ae38d6976f54580ed57e86"/>
   <project name="platform/external/dhcpcd" path="external/dhcpcd" revision="3698b204069c11616d6edfe2fb26d268e60242d3"/>
   <project name="platform/external/dnsmasq" path="external/dnsmasq" revision="1b25960ebe33754410ba3c663c1c45662c779381"/>
@@ -128,7 +128,7 @@
   <project name="platform/hardware/ril" path="hardware/ril" revision="d9c8c5f4a5fd11c4c13e8e0a23d2aa05e50f2c83"/>
   <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" revision="5b4e15459062e151f277c6600ae2d2f6c1d20213"/>
   <project name="platform/hardware/ti/wlan" path="hardware/ti/wlan" revision="07765242d3d162441bc48e96835220740732744b"/>
-  <project name="platform/libcore" path="libcore" revision="aff549a4ab6a332164affb7a7079ff8170496d66"/>
+  <project name="platform/libcore" path="libcore" revision="e22935d3c7040c22b48d53bd18878844f381287c"/>
   <project name="platform/ndk" path="ndk" revision="c769386f318b9b5632ea524e32106d09519e35e5"/>
   <project name="platform/packages/apps/AccountsAndSyncSettings" path="packages/apps/AccountsAndSyncSettings" revision="46f880c87cd2a8e3ca5c259a9babc24850ddf746"/>
   <project name="platform/packages/apps/Bluetooth" path="packages/apps/Bluetooth" revision="eb77c4b1d9aa71d7dd8dd934e9d1971583f9c0e2"/>
