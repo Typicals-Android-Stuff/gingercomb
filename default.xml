@@ -113,7 +113,7 @@
   <project name="platform/external/xmlwriter" path="external/xmlwriter" revision="e95d92246ee35273dde2bee8b00485cc14c12be5" />
   <project name="platform/external/yaffs2" path="external/yaffs2" revision="0fe811d9a994dd6df8aa9852c7b9241fa9aa453b"/>
   <project name="platform/external/zlib" path="external/zlib" revision="b5611c4ac00b35b72c298f5ecdaa154167c6dd6d"/>
-  <project name="platform/frameworks/base" path="frameworks/base" revision="32a42f1587db77b958d62c3de4f2734eb0a3b965"/>
+  <project name="platform/frameworks/base" path="frameworks/base" revision="00146321f80ef319356f4e55ab7ab284576d6101"/>
   <project name="platform/frameworks/ex" path="frameworks/ex" revision="d8e057e067696d5e75999fcec1736b8963f3bf92"/>
   <project name="platform/frameworks/compile/libbcc" path="external/llvm/libbcc" revision="75dacc153f6fc6a6a23abd41f0ed44f5b2413942"/>
   <project name="platform/frameworks/compile/slang" path="external/llvm/slang" revision="0dbc40516ccd83b25ef4d045bcd7ec55681bee28"/>
@@ -176,7 +176,7 @@
   <project name="platform/prebuilt" path="prebuilt" revision="4d8b010911d4c183f8164c807945c8facb14fc56"/>
   <project name="platform/sdk" path="sdk" revision="44f1e5e54af2ab1f5f7ddec68419bff93744658d"/>
   <project name="platform/system/bluetooth" path="system/bluetooth" revision="1eb78ae8115707d683aaa277ab61b78897344b2c"/>
-  <project name="platform/system/core" path="system/core" revision="b14a2c6e34b197870433386fb809d34b58b30fc0"/>
+  <project name="platform/system/core" path="system/core" revision="7f7047eb6b704410a925409cddc76d04db8faf81"/>
   <project name="platform/system/extras" path="system/extras" revision="6bd2b5d80db5630cb73e3e5a4be3b38afa241c5a"/>
   <project name="platform/system/media" path="system/media" revision="a91b556b3f730c77a95d745671ab2a68ce1c7d99"/>
   <project name="platform/system/netd" path="system/netd" revision="a783390cc37cc8321fe695ba95ffaa5b6a2ed05b"/>
