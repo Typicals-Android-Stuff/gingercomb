@@ -1,7 +1,7 @@
 Honeycomb Restoration Project (Froyocomb)
 ===========
 
-This repository contains reconstructed manifests of early Honeycomb builds. As of now, following builds were reconstructed:
+This repository contains reconstructed manifests of Honeycomb builds. As of now, following builds were reconstructed:
 
 
 | Build number                    | Status           |
@@ -9,7 +9,8 @@ This repository contains reconstructed manifests of early Honeycomb builds. As o
 | `HRG85C` (September 27th, 2010) | Done             |
 | `HRH27` (October 27th, 2010)    | Done             |
 | `HRH54C` (November 24th, 2010)  | Done             |
-| `HRH83D` (December 27th, 2010)  | Work in progress |
+| `HRH83D` (December 27th, 2010)  | Done             |
+| `HRI39` (Android 3.0 r1)        | Work in progress |
 
 Getting Started
 ---------------
