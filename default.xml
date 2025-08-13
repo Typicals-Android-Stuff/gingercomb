@@ -66,7 +66,6 @@
   <project name="platform/external/jdiff" path="external/jdiff" revision="590cef7c1b48c9c3f4556ae65fbc0065d65da54a"/>
   <project name="platform/external/jhead" path="external/jhead" revision="a5d9b7a8d52403b74773fcdd1e155baa48b9a545"/>
   <project name="platform/external/jpeg" path="external/jpeg" revision="3147fbe7688fc353e6ae03825a37cf101a4ee01d"/>
-  <project name="platform/external/jsilver" path="external/jsilver" revision="56ed4167b942ec265f9cee70ac4d71d10b3835ce"/>
   <project name="platform/external/jsr305" path="external/jsr305" revision="d1583ee1b4f5d4222ac61625f9f8eab651d6fe85"/>
   <project name="platform/external/junit" path="external/junit" revision="e9b8080d6d80d17729e0b7f8b1d2b573b3456cc4"/>
   <project name="platform/external/kernel-headers" path="external/kernel-headers" revision="f18e238ae27759dd906ae753e6e23401f4370f68"/>
