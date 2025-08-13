@@ -43,7 +43,7 @@
   <project name="platform/external/e2fsprogs" path="external/e2fsprogs" revision="61ef2474c24c80a5bf0e24ba85a7506fd7651a5c"/>
   <project name="platform/external/easymock" path="external/easymock" revision="cef83e796d0ab91f15a22f2eb837fce7cb8fe9c9"/>
   <project name="platform/external/elfcopy" path="external/elfcopy" revision="84e352dca84000ff0c68b4c5bad657949a443901"/>
-  <project name="platform/external/elfutils" path="external/elfutils" revision="f4763cf246af5d001ae0690c7c0f0acaca78fc0c"/>
+  <project name="platform/external/elfutils" path="external/elfutils" revision="84cf4183ba6f577ee01abe7f1f5a6d4b23df35a8"/>
   <project name="platform/external/embunit" path="external/embunit" revision="f5eb8b0c9abf1e9911b5c84a555bc495651595e5"/>
   <project name="platform/external/emma" path="external/emma" revision="4d37e21b7c2fa378dbf7cfe2ea57d7f5991fe6cd"/>
   <project name="platform/external/esd" path="external/esd" revision="224a67f2683a7ee997179fc5dd16115e39987b0f"/>
