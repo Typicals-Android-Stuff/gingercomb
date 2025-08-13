@@ -82,7 +82,7 @@
   <project name="platform/external/netcat" path="external/netcat" revision="fc2dc55c510657073ef4235658167a878e82cefa"/>
   <project name="platform/external/netperf" path="external/netperf" revision="58ecd3b7c76263900e38921360e334a416aec362"/>
   <project name="platform/external/neven" path="external/neven" revision="7164d6ac08ab9fc1247aa29f1dafd0ef7808f0f2"/>
-  <project name="Typicals-Android-Stuff/froyocomb-platform_external_nist-sip" remote="github" path="external/nist-sip" revision="honeycomb-release_HRG61_fix"/>
+  <project name="platform/external/nist-sip" path="external/nist-sip" revision="9c0e76beae15ce3ef27507b6b32a75ab78c6b836"/>
   <project name="platform/external/oauth" path="external/oauth" revision="c76276a1d6165cfb502b06f65b1735fef0754d26"/>
   <project name="platform/external/opencore" path="external/opencore" revision="96f6f2bfc1797ff684916dc9b57c7c03d99f49b1"/>
   <project name="platform/external/openssl" path="external/openssl" revision="e696844831347da6208b7c870a013e1c883c8fe0"/>
