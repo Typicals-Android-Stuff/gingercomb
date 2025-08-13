@@ -132,9 +132,9 @@
   <project name="platform/ndk" path="ndk" revision="6b5bc468b9be34c7dbd4531274bb1a2d55542731"/>
   <project name="platform/packages/apps/AccountsAndSyncSettings" path="packages/apps/AccountsAndSyncSettings" revision="46f880c87cd2a8e3ca5c259a9babc24850ddf746"/>
   <project name="platform/packages/apps/Bluetooth" path="packages/apps/Bluetooth" revision="e699ee4ed89f2d33c7566a57b3ebebb3df12e5aa"/>
-  <project name="platform/packages/apps/Browser" path="packages/apps/Browser" revision="c50e71a184ed1963d2358e92b4e196653d0a29fa"/>
+  <project name="platform/packages/apps/Browser" path="packages/apps/Browser" revision="1e7d69f8fcafa7ecbe38df55b19f3f6821bb3038"/>
   <project name="platform/packages/apps/Calculator" path="packages/apps/Calculator" revision="6bcaef19866ebb2602e2e4b7651b4bb75df6c89d"/>
-  <project name="platform/packages/apps/Calendar" path="packages/apps/Calendar" revision="ee212201f3b7dd290eb9ca99de5b4d0b9c62acfd"/>
+  <project name="platform/packages/apps/Calendar" path="packages/apps/Calendar" revision="56892a8754a93e6dc0b7eb2f6322a14c3f6a7c34"/>
   <project name="platform/packages/apps/Camera" path="packages/apps/Camera" revision="532a4e7404b4ad9b0e631835ed8b452c3a80bfd4"/>
   <project name="platform/packages/apps/CertInstaller" path="packages/apps/CertInstaller" revision="23463775292a78e73a1a18f731443120b08e4146"/>
   <project name="platform/packages/apps/Contacts" path="packages/apps/Contacts" revision="fdfa92d8771d524591f0d0ca9b3b8fcd25a4742e"/>
