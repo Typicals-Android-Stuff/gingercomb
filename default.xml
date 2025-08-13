@@ -56,7 +56,7 @@
   <project name="platform/external/google-diff-match-patch" path="external/google-diff-match-patch" revision="cecbe12841337860291c2d6a5728b681ec5fca2a"/>
   <project name="platform/external/grub" path="external/grub" revision="a0be411871f2e71834a2cd75dea882d732557530"/>
   <project name="platform/external/gtest" path="external/gtest" revision="75f109c3120bf78ee89124f1f21b50ea24225236"/>
-  <project name="platform/external/guava" path="external/guava" revision="c4ec873e2c33a5c059d3a173587c7715f4deae1f"/>
+  <project name="platform/external/guava" path="external/guava" revision="2dd064ee23f7fa14e0d3583c64129849d165be91"/>
   <project name="platform/external/harfbuzz" path="external/harfbuzz" revision="bc5032157caeb9e460d05f147c010fe9df851f4c"/>
   <project name="platform/external/hyphenation" path="external/hyphenation" revision="2c8b0b3430ee6a9ee501e6cc7921f8790851c286"/>
   <project name="platform/external/icu4c" path="external/icu4c" revision="ad1a309651b1dacbcee2ebfb845b650684100216"/>
