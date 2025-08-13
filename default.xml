@@ -75,7 +75,7 @@
   <project name="platform/external/libpcap" path="external/libpcap" revision="3c13ac2cc3e06899a8ed1aca3e88b2abebb02c9a"/>
   <project name="platform/external/libphonenumber" path="external/libphonenumber" revision="fa42140081949568565af7dc8c22f0600ad90a8a"/>
   <project name="platform/external/libpng" path="external/libpng" revision="1c5f8c054976e6a55f07375508858044d7f4c6aa"/>
-  <project name="platform/external/libvpx" path="external/libvpx" revision="9602799cd9ecd0529e291f8d1af951bf2fde787b"/>
+  <project name="platform/external/libvpx" path="external/libvpx" revision="80d3923a78e0fa85194b58d327d619e63919fbd8"/>
   <project name="platform/external/libxml2" path="external/libxml2" revision="f2da8ef9b4e7243c19e295fed847fa897e8230d3"/>
   <project name="platform/external/libxslt" path="external/libxslt" revision="d9120218522dc5da663e78996d0f042c0a62bc5e"/>
   <project name="platform/external/llvm" path="external/llvm/llvm" revision="3e5165a7cc01d28b680a5f409eda72788cb451d3"/>
@@ -114,7 +114,6 @@
   <project name="platform/external/xmlwriter" path="external/xmlwriter" revision="e95d92246ee35273dde2bee8b00485cc14c12be5" />
   <project name="platform/external/yaffs2" path="external/yaffs2" revision="0fe811d9a994dd6df8aa9852c7b9241fa9aa453b"/>
   <project name="platform/external/zlib" path="external/zlib" revision="b5611c4ac00b35b72c298f5ecdaa154167c6dd6d"/>
-  <project name="platform/frameworks/av" path="frameworks/av" revision="e56121bc4cb29c91d736eab181b1f51c4f125e78"/>
   <project name="platform/frameworks/base" path="frameworks/base" revision="00146321f80ef319356f4e55ab7ab284576d6101"/>
   <project name="platform/frameworks/ex" path="frameworks/ex" revision="d8e057e067696d5e75999fcec1736b8963f3bf92"/>
   <project name="platform/frameworks/compile/libbcc" path="external/llvm/libbcc" revision="75dacc153f6fc6a6a23abd41f0ed44f5b2413942"/>
