@@ -56,7 +56,7 @@
   <project name="platform/external/google-diff-match-patch" path="external/google-diff-match-patch" revision="cecbe12841337860291c2d6a5728b681ec5fca2a"/>
   <project name="platform/external/grub" path="external/grub" revision="a0be411871f2e71834a2cd75dea882d732557530"/>
   <project name="platform/external/gtest" path="external/gtest" revision="75f109c3120bf78ee89124f1f21b50ea24225236"/>
-  <project name="platform/external/guava" path="external/guava" revision="2dd064ee23f7fa14e0d3583c64129849d165be91"/>
+  <project name="platform/external/guava" path="external/guava" revision="c4ec873e2c33a5c059d3a173587c7715f4deae1f"/>
   <project name="platform/external/harfbuzz" path="external/harfbuzz" revision="bc5032157caeb9e460d05f147c010fe9df851f4c"/>
   <project name="platform/external/hyphenation" path="external/hyphenation" revision="2c8b0b3430ee6a9ee501e6cc7921f8790851c286"/>
   <project name="platform/external/icu4c" path="external/icu4c" revision="ad1a309651b1dacbcee2ebfb845b650684100216"/>
@@ -75,7 +75,7 @@
   <project name="platform/external/libphonenumber" path="external/libphonenumber" revision="fa42140081949568565af7dc8c22f0600ad90a8a"/>
   <project name="platform/external/libpng" path="external/libpng" revision="1c5f8c054976e6a55f07375508858044d7f4c6aa"/>
   <project name="platform/external/libvpx" path="external/libvpx" revision="9602799cd9ecd0529e291f8d1af951bf2fde787b"/>
-  <project name="platform/external/libxml2" path="external/libxml2" revision="af58ee130fe9eec14a0b8c6f6f3cdf7e7ec37872"/>
+  <project name="platform/external/libxml2" path="external/libxml2" revision="f2da8ef9b4e7243c19e295fed847fa897e8230d3"/>
   <project name="platform/external/libxslt" path="external/libxslt" revision="d9120218522dc5da663e78996d0f042c0a62bc5e"/>
   <project name="platform/external/llvm" path="external/llvm/llvm" revision="3e5165a7cc01d28b680a5f409eda72788cb451d3"/>
   <project name="platform/external/mtpd" path="external/mtpd" revision="fccbc17685cd8bd43cf1c1e533c4d02f6f79d667"/>
@@ -94,7 +94,7 @@
   <project name="platform/external/qemu" path="external/qemu" revision="b5365f32d7b1dcc6c3e9be7584ce8d4f68b3e7e1"/>
   <project name="platform/external/quake" path="external/quake" revision="14c49699bbca14a6a92d8a9428af1df06b3f1916"/>
   <project name="platform/external/safe-iop" path="external/safe-iop" revision="07073634e2e3aa4f518e36ed5dec3aabc549d5fb"/>
-  <project name="platform/external/skia" path="external/skia" revision="21417a7b4b48297d5cfb58a31ceaa6d3a800329b"/>
+  <project name="platform/external/skia" path="external/skia" revision="5e631cf2609bc0657530e4fbd26a31e8208bfb88"/>
   <project name="platform/external/sonivox" path="external/sonivox" revision="f1298246581874025998ec434477ae90d4d39181"/>
   <project name="platform/external/speex" path="external/speex" revision="a0621566e1fe4848300a9ff612f540198f1b113b"/>
   <project name="platform/external/sqlite" path="external/sqlite" revision="e402679d640df63f301e5a42ce847764608a8b1d"/>
