@@ -75,7 +75,7 @@
   <project name="platform/external/libpcap" path="external/libpcap" revision="3c13ac2cc3e06899a8ed1aca3e88b2abebb02c9a"/>
   <project name="platform/external/libphonenumber" path="external/libphonenumber" revision="fa42140081949568565af7dc8c22f0600ad90a8a"/>
   <project name="platform/external/libpng" path="external/libpng" revision="1c5f8c054976e6a55f07375508858044d7f4c6aa"/>
-  <project name="platform/external/libvpx" path="external/libvpx" revision="76e0247ec867fcc232fc79f21e9bf85d3c3a5a3f"/>
+  <project name="platform/external/libvpx" path="external/libvpx" revision="acb586e0536bb0ffc5b3f41dcdedf77fed3f02c5"/>
   <project name="platform/external/libxml2" path="external/libxml2" revision="f2da8ef9b4e7243c19e295fed847fa897e8230d3"/>
   <project name="platform/external/libxslt" path="external/libxslt" revision="d9120218522dc5da663e78996d0f042c0a62bc5e"/>
   <project name="platform/external/llvm" path="external/llvm/llvm" revision="3e5165a7cc01d28b680a5f409eda72788cb451d3"/>
