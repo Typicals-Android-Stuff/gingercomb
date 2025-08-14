@@ -108,7 +108,7 @@
   <project name="platform/external/tinyxml" path="external/tinyxml" revision="d589f7e4a51e75bd5c98a3defd8ee84d7059e86e"/>
   <project name="platform/external/tremolo" path="external/tremolo" revision="ef03ae17fcbd7474f839cc2fee27a58369cf41dd"/>
   <project name="platform/external/v8" path="external/v8" revision="bb769b257e753aafcbd96767abb2abc645eaa20c"/>
-  <project name="platform/external/webkit" path="external/webkit" revision="0a26479271d788e68a0240bbd2c0a541b60c8839"/>
+  <project name="platform/external/webkit" path="external/webkit" revision="a01792f8060881461b672472ba3dfdd77044e0a5"/>
   <project name="platform/external/wpa_supplicant" path="external/wpa_supplicant" revision="a8b5ba4fd9ac012723cd51e4f667861044dca89f"/>
   <project name="platform/external/wpa_supplicant_6" path="external/wpa_supplicant_6" revision="8561e2708243f295d169d71997244061e5373320"/>
   <project name="platform/external/xmlwriter" path="external/xmlwriter" revision="e95d92246ee35273dde2bee8b00485cc14c12be5" />
@@ -160,7 +160,7 @@
   <project name="platform/packages/experimental" path="packages/experimental" revision="15424fb18385169cd47c23d9ea066ed5ae085e07"/>
   <project name="platform/packages/inputmethods/LatinIME" path="packages/inputmethods/LatinIME" revision="648dcf55a369951eec5c7a29b8035105373b335b"/>
   <project name="platform/packages/inputmethods/OpenWnn" path="packages/inputmethods/OpenWnn" revision="27ab9d1b806f03554d2abb50de26abe7bf234336"/>
-  <project name="platform/packages/inputmethods/PinyinIME" path="packages/inputmethods/PinyinIME" revision="b6733d9258ffa1cf8d5bd23729bbed308f7e4f29"/>
+  <project name="platform/packages/inputmethods/PinyinIME" path="packages/inputmethods/PinyinIME" revision="6b7954e2967754a77c55dc4291941978e3508259"/>
   <project name="platform/packages/providers/ApplicationsProvider" path="packages/providers/ApplicationsProvider" revision="d8c7818f759693de50e41babebe4ae365792e89f"/>
   <project name="platform/packages/providers/CalendarProvider" path="packages/providers/CalendarProvider" revision="ba857d3cc7d9b55b05083c91795cdd8d5791d010"/>
   <project name="platform/packages/providers/ContactsProvider" path="packages/providers/ContactsProvider" revision="892a3d9ded5c64a63ae3d5d5c52c59528b466c93"/>
