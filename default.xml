@@ -138,7 +138,7 @@
   <project name="platform/packages/apps/Calendar" path="packages/apps/Calendar" revision="2bebde787f9490408ceaf14166de4b016a10daf1"/>
   <project name="platform/packages/apps/Camera" path="packages/apps/Camera" revision="8c6268a1dbed89bd77de02bd9dab91f57e961977"/>
   <project name="platform/packages/apps/CertInstaller" path="packages/apps/CertInstaller" revision="4aa3e4c42da7dcd0524dc71bf4cbf5f6bc83d3b5"/>
-  <project name="platform/packages/apps/Contacts" path="packages/apps/Contacts" revision="4dd082bff5d9f2d056affbfa0858f04dac38598e"/>
+  <project name="platform/packages/apps/Contacts" path="packages/apps/Contacts" revision="15972398b530b91612418dc11d41c356d4f43739"/>
   <project name="platform/packages/apps/DeskClock" path="packages/apps/DeskClock" revision="01037bd45562dbf2a05ae0eb0e52b43f8d66caa1"/>
   <project name="platform/packages/apps/Email" path="packages/apps/Email" revision="b7d637232e48c39c5c31615939210217a7e8eaa2"/>
   <project name="platform/packages/apps/Gallery" path="packages/apps/Gallery" revision="44ff7fdb13381fe037c94a669564da513f03eed1"/>
