@@ -23,7 +23,7 @@
   <project name="platform/cts" path="cts" revision="20a01fe70b203f6f7891ab73d21460164882f92e"/>
   <project name="platform/dalvik" path="dalvik" revision="3031fc39b220e6d450590666512e7d9c3e78ede4"/>
   <project name="platform/development" path="development" revision="b880eb426093d51c77d83aca0af1f211a1598170"/>
-  <project name="platform/external/apache-http" path="external/apache-http" revision="2e9f166eba309e50c1c1f52ff8d2694f058ab2cf"/>
+  <project name="platform/external/apache-http" path="external/apache-http" revision="0c8300bccd4d1dfdf6b746d8d89ac526733f0181"/>
   <project name="platform/external/astl" path="external/astl" revision="c3c760978c34d5eeea1205c0bf7f27444e192a98"/>
   <project name="platform/external/bison" path="external/bison" revision="889df9c1efa7ca5de113407ab7793b57a6db677d"/>
   <project name="platform/external/blktrace" path="external/blktrace" revision="ac4461c3b3e7bcbafe5336b9478657d0fa3e08aa"/>
@@ -114,7 +114,7 @@
   <project name="platform/external/xmlwriter" path="external/xmlwriter" revision="e95d92246ee35273dde2bee8b00485cc14c12be5" />
   <project name="platform/external/yaffs2" path="external/yaffs2" revision="0fe811d9a994dd6df8aa9852c7b9241fa9aa453b"/>
   <project name="platform/external/zlib" path="external/zlib" revision="b5611c4ac00b35b72c298f5ecdaa154167c6dd6d"/>
-  <project name="platform/frameworks/base" path="frameworks/base" revision="dde858cbb6dd96e621616b20bb5a6866565b4874"/>
+  <project name="platform/frameworks/base" path="frameworks/base" revision="00146321f80ef319356f4e55ab7ab284576d6101"/>
   <project name="platform/frameworks/ex" path="frameworks/ex" revision="d8e057e067696d5e75999fcec1736b8963f3bf92"/>
   <project name="platform/frameworks/compile/libbcc" path="external/llvm/libbcc" revision="75dacc153f6fc6a6a23abd41f0ed44f5b2413942"/>
   <project name="platform/frameworks/compile/slang" path="external/llvm/slang" revision="0dbc40516ccd83b25ef4d045bcd7ec55681bee28"/>
@@ -160,7 +160,7 @@
   <project name="platform/packages/experimental" path="packages/experimental" revision="15424fb18385169cd47c23d9ea066ed5ae085e07"/>
   <project name="platform/packages/inputmethods/LatinIME" path="packages/inputmethods/LatinIME" revision="648dcf55a369951eec5c7a29b8035105373b335b"/>
   <project name="platform/packages/inputmethods/OpenWnn" path="packages/inputmethods/OpenWnn" revision="27ab9d1b806f03554d2abb50de26abe7bf234336"/>
-  <project name="platform/packages/inputmethods/PinyinIME" path="packages/inputmethods/PinyinIME" revision="6b7954e2967754a77c55dc4291941978e3508259"/>
+  <project name="platform/packages/inputmethods/PinyinIME" path="packages/inputmethods/PinyinIME" revision="b6733d9258ffa1cf8d5bd23729bbed308f7e4f29"/>
   <project name="platform/packages/providers/ApplicationsProvider" path="packages/providers/ApplicationsProvider" revision="d8c7818f759693de50e41babebe4ae365792e89f"/>
   <project name="platform/packages/providers/CalendarProvider" path="packages/providers/CalendarProvider" revision="ba857d3cc7d9b55b05083c91795cdd8d5791d010"/>
   <project name="platform/packages/providers/ContactsProvider" path="packages/providers/ContactsProvider" revision="892a3d9ded5c64a63ae3d5d5c52c59528b466c93"/>
