@@ -183,7 +183,7 @@
   <project name="platform/sdk" path="sdk" revision="44f1e5e54af2ab1f5f7ddec68419bff93744658d"/>
   <project name="platform/system/bluetooth" path="system/bluetooth" revision="0df913111ab36a1717f0cdb59dd51d8e6815b0be"/>
   <!-- [HRG44B] extremely confusing -->
-  <project name="platform/system/core" path="system/core" revision="a82807839758a58bc16781b2e0ef9bce15677343"/>
+  <project name="platform/system/core" path="system/core" revision="d305c4a24d577c0bb2828f284e64bf8027f3715f"/>
   <project name="platform/system/extras" path="system/extras" revision="6bd2b5d80db5630cb73e3e5a4be3b38afa241c5a"/>
   <project name="platform/system/media" path="system/media" revision="a91b556b3f730c77a95d745671ab2a68ce1c7d99"/>
   <project name="platform/system/netd" path="system/netd" revision="a783390cc37cc8321fe695ba95ffaa5b6a2ed05b"/>
