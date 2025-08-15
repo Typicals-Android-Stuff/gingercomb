@@ -20,7 +20,7 @@
   <project name="platform/build" path="build" revision="76e3544a09b1d1cb77c2432c3b572958b0a4c452">
     <copyfile dest="Makefile" src="core/root.mk"/>
   </project>
-  <project name="platform/cts" path="cts" revision="a63e7af54165ac47b53b6a5b85bb55eee4235b74"/>
+  <project name="platform/cts" path="cts" revision="917a579bf74a8054a586faf23ba93dce3ed83a01"/>
   <project name="platform/dalvik" path="dalvik" revision="3031fc39b220e6d450590666512e7d9c3e78ede4"/>
   <project name="platform/development" path="development" revision="b880eb426093d51c77d83aca0af1f211a1598170"/>
   <!-- [HRG44B] extremely confusing -->
