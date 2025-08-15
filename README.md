@@ -6,6 +6,7 @@ This repository contains reconstructed manifests of Honeycomb builds. As of now,
 
 | Build number                    | Status           |
 | :---:                           |   :---:          |
+| `HRG30` (July 30, 2010)         | Work in progress |
 | `HRG44B` (August 13, 2010)      | Done             |
 | `HRG61` (August 30, 2010)       | Done             |
 | `HRG85C` (September 27th, 2010) | Done             |
