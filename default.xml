@@ -134,6 +134,7 @@
   <project name="platform/hardware/ril" path="hardware/ril" revision="d9c8c5f4a5fd11c4c13e8e0a23d2aa05e50f2c83"/>
   <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" revision="d80112bea5c1efe1572bc01e28e60bda6c95eadc"/>
   <project name="platform/hardware/ti/wlan" path="hardware/ti/wlan" revision="07765242d3d162441bc48e96835220740732744b"/>
+  <!-- [HRG44B] gb: 753597d51e673c914930659b52952618c335dc4b -->
   <project name="platform/libcore" path="libcore" revision="60a0a96f334f159418763cab17c48a09c97cbd2f"/>
   <project name="platform/ndk" path="ndk" revision="c4743fc9297012d5b4e2b99c853273bd15aa8662"/>
   <project name="platform/packages/apps/AccountsAndSyncSettings" path="packages/apps/AccountsAndSyncSettings" revision="46f880c87cd2a8e3ca5c259a9babc24850ddf746"/>
