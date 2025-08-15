@@ -112,8 +112,10 @@
   <project name="platform/external/tcpdump" path="external/tcpdump" revision="532b8f38c144da9a298260a5d8978ab9e8e3856c"/>
   <project name="platform/external/tinyxml" path="external/tinyxml" revision="d589f7e4a51e75bd5c98a3defd8ee84d7059e86e"/>
   <project name="platform/external/tremolo" path="external/tremolo" revision="ef03ae17fcbd7474f839cc2fee27a58369cf41dd"/>
-  <project name="platform/external/v8" path="external/v8" revision="bb769b257e753aafcbd96767abb2abc645eaa20c"/>
-  <project name="platform/external/webkit" path="external/webkit" revision="a01792f8060881461b672472ba3dfdd77044e0a5"/>
+  <!-- [HRG44B] aug 11 versions -->
+  <project name="platform/external/v8" path="external/v8" revision="91e42c979b0b259e6ffa5b3ebc410f47b2bb2cda"/>
+  <!-- [HRG44B] aug 11 versions -->
+  <project name="platform/external/webkit" path="external/webkit" revision="f3d41ba51d86bf719c7a65ab5297aea3c17e2d98"/>
   <project name="platform/external/wpa_supplicant" path="external/wpa_supplicant" revision="a8b5ba4fd9ac012723cd51e4f667861044dca89f"/>
   <project name="platform/external/wpa_supplicant_6" path="external/wpa_supplicant_6" revision="8561e2708243f295d169d71997244061e5373320"/>
   <project name="platform/external/xmlwriter" path="external/xmlwriter" revision="e95d92246ee35273dde2bee8b00485cc14c12be5" />
