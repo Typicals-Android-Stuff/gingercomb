@@ -21,7 +21,8 @@
     <copyfile dest="Makefile" src="core/root.mk"/>
   </project>
   <project name="platform/cts" path="cts" revision="44adb1eecb5bfc0490d131fbd213904e79752a9e"/>
-  <project name="platform/dalvik" path="dalvik" revision="23280a2598d72733223c69a6ff3ab9dd5005c751"/>
+  <!-- [HRG15] have to use an ICU commit or else it dies on libICUdata.so -->
+  <project name="platform/dalvik" path="dalvik" revision="0f0e6f10f9029a958683b0830d47b21bc993a067"/>
   <project name="platform/development" path="development" revision="6e384d9b43276ab7f023960d27c5270d01a36a25"/>
   <project name="platform/external/apache-http" path="external/apache-http" revision="ffdb17578754105930c12cf7989a06914b96190f"/>
   <project name="platform/external/astl" path="external/astl" revision="a9a7cf4eff812b972e6aabb89bed58f2013f6d3c"/>
