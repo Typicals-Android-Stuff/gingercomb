@@ -22,7 +22,7 @@
   </project>
   <project name="platform/cts" path="cts" revision="44adb1eecb5bfc0490d131fbd213904e79752a9e"/>
   <!-- [HRG15] have to use an ICU commit or else it dies on libICUdata.so -->
-  <project name="platform/dalvik" path="dalvik" revision="0f0e6f10f9029a958683b0830d47b21bc993a067"/>
+  <project name="platform/dalvik" path="dalvik" revision="1daf86bdb630efa96147220019e1a97c853ed3d2"/>
   <project name="platform/development" path="development" revision="6e384d9b43276ab7f023960d27c5270d01a36a25"/>
   <project name="platform/external/apache-http" path="external/apache-http" revision="3b74bc0ac45043a6b559d44aa913de5803793a56"/>
   <project name="platform/external/astl" path="external/astl" revision="a9a7cf4eff812b972e6aabb89bed58f2013f6d3c"/>
