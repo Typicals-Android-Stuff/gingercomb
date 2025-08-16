@@ -94,7 +94,8 @@
   <project name="platform/external/qemu" path="external/qemu" revision="7258f6b1539906849d02fa9f5e75360b0d01f48c"/>
   <project name="platform/external/quake" path="external/quake" revision="0b098acc31bcd0f40288fc0b31466509ed5df2ee"/>
   <project name="platform/external/safe-iop" path="external/safe-iop" revision="084f46f834a5327a301984a0d72404551cd2cb6f"/>
-  <project name="platform/external/skia" path="external/skia" revision="097a3513535ad854c1b049c32c080ec875ab1411"/>
+  <!-- july 20 commit instead of 15, stolen from HRG30 -->
+  <project name="platform/external/skia" path="external/skia" revision="90a1efbdde19ee56c33929592277871509c25893"/>
   <project name="platform/external/sonivox" path="external/sonivox" revision="0f0fe34443b8b755f24cd0e057b1a0d940400fd8"/>
   <project name="platform/external/speex" path="external/speex" revision="9965152ae52eb4dfdafbdcd8b55e39d1a23052e0"/>
   <project name="platform/external/sqlite" path="external/sqlite" revision="ebc6b24ff37b903195b37f143a5791c9f02be8df"/>
