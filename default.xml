@@ -58,7 +58,7 @@
   <project name="platform/external/guava" path="external/guava" revision="b0b6cc835f577b0e62eb7b06bc2faea188a2450d"/>
   <project name="platform/external/harfbuzz" path="external/harfbuzz" revision="bc5032157caeb9e460d05f147c010fe9df851f4c"/>
   <project name="platform/external/hyphenation" path="external/hyphenation" revision="2c8b0b3430ee6a9ee501e6cc7921f8790851c286"/>
-  <project name="platform/external/icu4c" path="external/icu4c" revision="48b4965f21b876425372e873214bdc2496d02c3e"/>
+  <project name="platform/external/icu4c" path="external/icu4c" revision="d60a22e7a4de8de9c2f4f577b4b41df82002a3b8"/>
   <project name="platform/external/iproute2" path="external/iproute2" revision="a3bf26f14bd98e38677a685e34cb5d3bfbd4a816"/>
   <project name="platform/external/ipsec-tools" path="external/ipsec-tools" revision="4fe3597dce855ea199afa239498c9c1833a6fe48"/>
   <project name="platform/external/iptables" path="external/iptables" revision="4a820b4c41de49482adce1a4e7424ca124b6b233"/>
