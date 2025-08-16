@@ -118,7 +118,7 @@
   <project name="platform/frameworks/opt/emoji" path="frameworks/opt/emoji" revision="49f8fa5f480ae382f9087fde333b50072b214ad2"/>
   <project name="platform/frameworks/opt/vcard" path="frameworks/opt/vcard" revision="d5a8fc2a35c69fc34df35fd545ccf83d548ba50c"/>
   <project name="platform/hardware/broadcom/wlan" path="hardware/broadcom/wlan" revision="db909afa23c0e12629df56d6ae19882bd10ec508"/>
-  <project name="platform/hardware/libhardware" path="hardware/libhardware" revision="5c0b977701a31d17a4ab9dec17dfa68f3c01aeaf"/>
+  <project name="platform/hardware/libhardware" path="hardware/libhardware" revision="9eed234b60cfebf68e91090151848d357e7c2427"/>
   <project name="platform/hardware/libhardware_legacy" path="hardware/libhardware_legacy" revision="7fbf4515ec1b315264ab86b05eaafb4c154ecd3e"/>
   <project name="platform/hardware/msm7k" path="hardware/msm7k" revision="cc21e31f6a8b78be75fb7069287a3f22c1f83537"/>
   <project name="platform/hardware/qcom/gps" path="hardware/qcom/gps" revision="5153d56321e20974d29c0649839d96e8351775b6"/>
