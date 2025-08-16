@@ -89,7 +89,7 @@
   <project name="platform/external/ping" path="external/ping" revision="f35ea57ab6d01badde92491274ff2d74cbe3cf01"/>
   <project name="platform/external/ppp" path="external/ppp" revision="35003ca8aeb0d007efedc87ef0f2a9558294d4fa"/>
   <project name="platform/external/proguard" path="external/proguard" revision="6660cb6cb4231a03a3c02127fa5c4e7828422caa"/>
-  <project name="platform/external/protobuf" path="external/protobuf" revision="27028bcb978061a38f2e4c53629a048263f8b7a8"/>
+  <project name="platform/external/protobuf" path="external/protobuf" revision="732aaf0089505130cea55633bcfb2fdf5111f380"/>
   <project name="platform/external/qemu" path="external/qemu" revision="7fd67eba0b961d94a5d6baa8e3c3de37b729f738"/>
   <project name="platform/external/quake" path="external/quake" revision="14c49699bbca14a6a92d8a9428af1df06b3f1916"/>
   <project name="platform/external/safe-iop" path="external/safe-iop" revision="07073634e2e3aa4f518e36ed5dec3aabc549d5fb"/>
