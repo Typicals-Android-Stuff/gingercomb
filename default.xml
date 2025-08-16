@@ -13,7 +13,7 @@
   
   <project name="device/common" revision="d468cbeb023507ce9c0e01e688038b9c56c403e7"/>
   <project name="device/sample" revision="223669e41d1f6b250ab44080af09237ba011aa58"/>
-  <project name="platform/bionic" path="bionic" revision="18c5bcc66a9a7b2178dcdcf04a0716958798ab81"/>
+  <project name="platform/bionic" path="bionic" revision="7f14f7ba145690efdf90bf55239e1e4590eed2a3"/>
   <project name="platform/bootable/bootloader/legacy" path="bootable/bootloader/legacy" revision="d3271024770ddcc2fb87dd22f8280764545ab05a"/>
   <project name="platform/bootable/diskinstaller" path="bootable/diskinstaller" revision="0589d96bbe85069577f00de0b75a8031f2457c01"/>
   <project name="platform/bootable/recovery" path="bootable/recovery" revision="dc9e87c44bac4504aed26061736cbc6e439bec51"/>
@@ -21,7 +21,7 @@
     <copyfile dest="Makefile" src="core/root.mk"/>
   </project>
   <project name="platform/cts" path="cts" revision="454fc760ac5c90c393be2ddd61cce69757483691"/>
-  <project name="platform/dalvik" path="dalvik" revision="acdea993a168b26892f172015c7c8df696d25bad"/>
+  <project name="platform/dalvik" path="dalvik" revision="e6899ef57ca0bea419992ab9dd83b8ca65854284"/>
   <project name="platform/development" path="development" revision="4d425f9b49cdf025ea4f2a0458409df83b9d419f"/>
   <project name="platform/external/apache-http" path="external/apache-http" revision="a0e668a50c1146a302cfdfad2d345c40ece31705"/>
   <project name="platform/external/astl" path="external/astl" revision="c3c760978c34d5eeea1205c0bf7f27444e192a98"/>
