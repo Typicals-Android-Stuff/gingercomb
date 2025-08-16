@@ -133,7 +133,7 @@
   <project name="platform/hardware/ril" path="hardware/ril" revision="af1298d72fd6a8b2d5bed7db15f6d181240fce83"/>
   <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" revision="721744541c4d471be243eeb48287d0d1de109cc5"/>
   <project name="platform/hardware/ti/wlan" path="hardware/ti/wlan" revision="bd8a0f92c534e9a32a2379a0462584277462f2f6"/>
-  <project name="platform/libcore" path="libcore" revision="117ee615d5bf80c0acac1b1e93e683cdac9bba61"/>
+  <project name="platform/libcore" path="libcore" revision="3b7c2eb86f89ea46b1ff054c478f2e85f5a458f5"/>
   <project name="platform/ndk" path="ndk" revision="791f03dc8015cc4e6f494d97de5841e9926a2d7c"/>
   <project name="platform/packages/apps/Bluetooth" path="packages/apps/Bluetooth" revision="9c67a8b5275e5b5754f02d43b57ed35314c9f5fb"/>
   <project name="platform/packages/apps/Browser" path="packages/apps/Browser" revision="3ef1906465a9320b8c1bc57f948f64f315ff79b4"/>
