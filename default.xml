@@ -115,7 +115,7 @@
   <project name="platform/external/yaffs2" path="external/yaffs2" revision="f9485fe8567fc50f2eecf35055ee5c5c31d61362"/>
   <project name="platform/external/zlib" path="external/zlib" revision="381716e9396b55b1adb8235b020c37344f60ab07"/>
 <!--- synchronized with dalvik, July 15 09:40:34 -->
-  <project name="platform/frameworks/base" path="frameworks/base" revision="9e7f41e85fd6ad3feff275f1d5c9faf7dc290bca"/>
+  <project name="platform/frameworks/base" path="frameworks/base" revision="5ea89f77ead553dcf3fd95353ded1c8bacd3ffe1"/>
   <project name="platform/frameworks/ex" path="frameworks/ex" revision="d8e057e067696d5e75999fcec1736b8963f3bf92"/>
   <project name="platform/frameworks/compile/libbcc" path="external/llvm/libbcc" revision="e405ef4f8a375b440b31fed16471f5b52e2357e3"/>
   <project name="platform/frameworks/compile/slang" path="external/llvm/slang" revision="e3756aa450b690cf5d18c0ea572ef7563de97bb3"/>
