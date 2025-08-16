@@ -58,7 +58,7 @@
   <project name="platform/external/guava" path="external/guava" revision="b0b6cc835f577b0e62eb7b06bc2faea188a2450d"/>
   <project name="platform/external/harfbuzz" path="external/harfbuzz" revision="bc5032157caeb9e460d05f147c010fe9df851f4c"/>
   <project name="platform/external/hyphenation" path="external/hyphenation" revision="2c8b0b3430ee6a9ee501e6cc7921f8790851c286"/>
-  <project name="platform/external/icu4c" path="external/icu4c" revision="d60a22e7a4de8de9c2f4f577b4b41df82002a3b8"/>
+  <project name="platform/external/icu4c" path="external/icu4c" revision="ca050f0c900923f48c87d9911cc1c8c32cf3e73b"/>
   <project name="platform/external/iproute2" path="external/iproute2" revision="a3bf26f14bd98e38677a685e34cb5d3bfbd4a816"/>
   <project name="platform/external/ipsec-tools" path="external/ipsec-tools" revision="4fe3597dce855ea199afa239498c9c1833a6fe48"/>
   <project name="platform/external/iptables" path="external/iptables" revision="4a820b4c41de49482adce1a4e7424ca124b6b233"/>
@@ -174,7 +174,7 @@
   <project name="platform/prebuilt" path="prebuilt" revision="acc2610bdea5ddbd022a25cf2630f5a7375196aa"/>
   <project name="platform/sdk" path="sdk" revision="63442129aa2c3e4e5a3c83a79c66b00924957c20"/>
   <project name="platform/system/bluetooth" path="system/bluetooth" revision="30a738e653aa2d9f7670d0b19409ce30916cc397"/>
-  <project name="platform/system/core" path="system/core" revision="f848a429dde741742988e2365d257058d57acbf8"/>
+  <project name="platform/system/core" path="system/core" revision="f4f7697f69a68abc755d9c4d1ef384984d81b164"/>
   <project name="platform/system/extras" path="system/extras" revision="10112f51911af42c4e32791858f498900155f9af"/>
   <project name="platform/system/media" path="system/media" revision="3a524202e831bf7e26d0fc3b1dd16df7eb6237f0"/>
   <project name="platform/system/netd" path="system/netd" revision="a783390cc37cc8321fe695ba95ffaa5b6a2ed05b"/>
