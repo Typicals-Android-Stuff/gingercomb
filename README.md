@@ -7,7 +7,8 @@ Following builds were reconstructed:
 
 | Build number                             | Status           |
 | :---:                                    |   :---:          |
-| [`HRG30`][HRG30] (July 30, 2010)         | Work in progress |
+| [`HRG15`][HRG15] (July 15, 2010)         | Work in progress |
+| [`HRG30`][HRG30] (July 30, 2010)         | Done             |
 | [`HRG44B`][HRG44B] (August 13, 2010)     | Done             |
 | [`HRG61`][HRG61] (August 30, 2010)       | Done             |
 | [`HRG85C`][HRG85C] (September 27th, 2010)| Done             |
@@ -16,6 +17,7 @@ Following builds were reconstructed:
 | [`HRH83D`][HRH83D] (December 27th, 2010) | Done             |
 | [`HRI39`][HRI39] (Android 3.0 r1)        | Work in progress |
 
+[HRG15]:  https://github.com/Typicals-Android-Stuff/froyocomb/tree/HRG15
 [HRG30]:  https://github.com/Typicals-Android-Stuff/froyocomb/tree/HRG30
 [HRG44B]: https://github.com/Typicals-Android-Stuff/froyocomb/tree/HRG44B
 [HRG61]:  https://github.com/Typicals-Android-Stuff/froyocomb/tree/HRG61
