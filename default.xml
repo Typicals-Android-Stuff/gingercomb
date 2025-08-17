@@ -17,7 +17,7 @@
   <project name="platform/bootable/bootloader/legacy" path="bootable/bootloader/legacy" revision="d3271024770ddcc2fb87dd22f8280764545ab05a"/>
   <project name="platform/bootable/diskinstaller" path="bootable/diskinstaller" revision="0589d96bbe85069577f00de0b75a8031f2457c01"/>
   <project name="platform/bootable/recovery" path="bootable/recovery" revision="050d0f7fec309a51d1e616a98882faaf3655e04e"/>
-  <project name="platform/build" path="build" revision="8914abf2865174d2f0ab329db5dafc3da78aa9c4">
+  <project name="platform/build" path="build" revision="89a23411ef0b7c023bbd98bc68b67f33a87962dc">
     <copyfile dest="Makefile" src="core/root.mk"/>
   </project>
   <project name="platform/cts" path="cts" revision="44adb1eecb5bfc0490d131fbd213904e79752a9e"/>
