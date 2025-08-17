@@ -22,7 +22,7 @@
   </project>
   <project name="platform/cts" path="cts" revision="44adb1eecb5bfc0490d131fbd213904e79752a9e"/>
   <project name="platform/dalvik" path="dalvik" revision="23280a2598d72733223c69a6ff3ab9dd5005c751"/>
-  <project name="platform/development" path="development" revision="6e384d9b43276ab7f023960d27c5270d01a36a25"/>
+  <project name="platform/development" path="development" revision="a8ccef2afb63632c403d96dde289a653b5e2aa17"/>
   <project name="platform/external/apache-http" path="external/apache-http" revision="5648c97be2c515bdafeff3d8a4b07ea0ddc3e357"/>
   <project name="platform/external/astl" path="external/astl" revision="a9a7cf4eff812b972e6aabb89bed58f2013f6d3c"/>
   <project name="platform/external/bison" path="external/bison" revision="889df9c1efa7ca5de113407ab7793b57a6db677d"/>
