@@ -13,7 +13,7 @@
   
   <project name="device/common" revision="d468cbeb023507ce9c0e01e688038b9c56c403e7"/>
   <project name="device/sample" revision="223669e41d1f6b250ab44080af09237ba011aa58"/>
-  <project name="platform/bionic" path="bionic" revision="7c99c1856fce65c0394cd578c2a8ed37da2f288d"/>
+  <project name="platform/bionic" path="bionic" revision="fb6907d39c7ffda90049cb73001ade59e7931a64"/>
   <project name="platform/bootable/bootloader/legacy" path="bootable/bootloader/legacy" revision="d3271024770ddcc2fb87dd22f8280764545ab05a"/>
   <project name="platform/bootable/diskinstaller" path="bootable/diskinstaller" revision="0589d96bbe85069577f00de0b75a8031f2457c01"/>
   <project name="platform/bootable/recovery" path="bootable/recovery" revision="050d0f7fec309a51d1e616a98882faaf3655e04e"/>
@@ -174,7 +174,7 @@
   <project name="platform/prebuilt" path="prebuilt" revision="acc2610bdea5ddbd022a25cf2630f5a7375196aa"/>
   <project name="platform/sdk" path="sdk" revision="63442129aa2c3e4e5a3c83a79c66b00924957c20"/>
   <project name="platform/system/bluetooth" path="system/bluetooth" revision="30a738e653aa2d9f7670d0b19409ce30916cc397"/>
-  <project name="platform/system/core" path="system/core" revision="6cebee264761cf9ed3a9b8b1ec939baf6e446afd"/>
+  <project name="platform/system/core" path="system/core" revision="f4f7697f69a68abc755d9c4d1ef384984d81b164"/>
   <project name="platform/system/extras" path="system/extras" revision="10112f51911af42c4e32791858f498900155f9af"/>
   <project name="platform/system/media" path="system/media" revision="3a524202e831bf7e26d0fc3b1dd16df7eb6237f0"/>
   <project name="platform/system/netd" path="system/netd" revision="a783390cc37cc8321fe695ba95ffaa5b6a2ed05b"/>
