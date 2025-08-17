@@ -13,7 +13,7 @@
   
   <project name="device/common" revision="d468cbeb023507ce9c0e01e688038b9c56c403e7"/>
   <project name="device/sample" revision="223669e41d1f6b250ab44080af09237ba011aa58"/>
-  <project name="platform/bionic" path="bionic" revision="42f160ddfa54d438849e12ff84094222799ed258"/>
+  <project name="platform/bionic" path="bionic" revision="0e78f786777a04af498b43564a8d6ed8e15e8940"/>
   <project name="platform/bootable/bootloader/legacy" path="bootable/bootloader/legacy" revision="d3271024770ddcc2fb87dd22f8280764545ab05a"/>
   <project name="platform/bootable/diskinstaller" path="bootable/diskinstaller" revision="0589d96bbe85069577f00de0b75a8031f2457c01"/>
   <project name="platform/bootable/recovery" path="bootable/recovery" revision="050d0f7fec309a51d1e616a98882faaf3655e04e"/>
@@ -21,10 +21,9 @@
     <copyfile dest="Makefile" src="core/root.mk"/>
   </project>
   <project name="platform/cts" path="cts" revision="44adb1eecb5bfc0490d131fbd213904e79752a9e"/>
-  <!-- [HRG15] have to use an ICU commit or else it dies on libICUdata.so -->
-  <project name="platform/dalvik" path="dalvik" revision="1c3da6197c677339cfdd41a948a5f79f804d6e4e"/>
+  <project name="platform/dalvik" path="dalvik" revision="23280a2598d72733223c69a6ff3ab9dd5005c751"/>
   <project name="platform/development" path="development" revision="6e384d9b43276ab7f023960d27c5270d01a36a25"/>
-  <project name="platform/external/apache-http" path="external/apache-http" revision="3b74bc0ac45043a6b559d44aa913de5803793a56"/>
+  <project name="platform/external/apache-http" path="external/apache-http" revision="5648c97be2c515bdafeff3d8a4b07ea0ddc3e357"/>
   <project name="platform/external/astl" path="external/astl" revision="a9a7cf4eff812b972e6aabb89bed58f2013f6d3c"/>
   <project name="platform/external/bison" path="external/bison" revision="889df9c1efa7ca5de113407ab7793b57a6db677d"/>
   <project name="platform/external/blktrace" path="external/blktrace" revision="d523266d0c81d27e0afa29868b0d3c06aaff38b3"/>
@@ -56,11 +55,10 @@
   <project name="platform/external/giflib" path="external/giflib" revision="b4ea220703d8257e5b467e3cb278e2604d9c8003"/>
   <project name="platform/external/grub" path="external/grub" revision="a0be411871f2e71834a2cd75dea882d732557530"/>
   <project name="platform/external/gtest" path="external/gtest" revision="75f109c3120bf78ee89124f1f21b50ea24225236"/>
-  <!-- old rev of guava just in case: b0b6cc835f577b0e62eb7b06bc2faea188a2450d -->
-  <project name="platform/external/guava" path="external/guava" revision="5fa17bce47c47d5538beaaef0e38f0576446709c"/>
+  <project name="platform/external/guava" path="external/guava" revision="f9db74af491ba7b54a02fb0b2102c56b3d11ecd3"/>
   <project name="platform/external/harfbuzz" path="external/harfbuzz" revision="bc5032157caeb9e460d05f147c010fe9df851f4c"/>
   <project name="platform/external/hyphenation" path="external/hyphenation" revision="2c8b0b3430ee6a9ee501e6cc7921f8790851c286"/>
-  <project name="platform/external/icu4c" path="external/icu4c" revision="ca050f0c900923f48c87d9911cc1c8c32cf3e73b"/>
+  <project name="platform/external/icu4c" path="external/icu4c" revision="d5a365087f4912cf5a04cdaa46cfd0277c4fa665"/>
   <project name="platform/external/iproute2" path="external/iproute2" revision="a3bf26f14bd98e38677a685e34cb5d3bfbd4a816"/>
   <project name="platform/external/ipsec-tools" path="external/ipsec-tools" revision="4fe3597dce855ea199afa239498c9c1833a6fe48"/>
   <project name="platform/external/iptables" path="external/iptables" revision="4a820b4c41de49482adce1a4e7424ca124b6b233"/>
@@ -94,8 +92,7 @@
   <project name="platform/external/qemu" path="external/qemu" revision="7258f6b1539906849d02fa9f5e75360b0d01f48c"/>
   <project name="platform/external/quake" path="external/quake" revision="0b098acc31bcd0f40288fc0b31466509ed5df2ee"/>
   <project name="platform/external/safe-iop" path="external/safe-iop" revision="084f46f834a5327a301984a0d72404551cd2cb6f"/>
-  <!-- july 16 commit -->
-  <project name="platform/external/skia" path="external/skia" revision="6394a2c791dfe0e147eb95534d6095d90e31a67b"/>
+  <project name="platform/external/skia" path="external/skia" revision="e1e74339345e683635d1daaa68969d50c08ec370"/>
   <project name="platform/external/sonivox" path="external/sonivox" revision="0f0fe34443b8b755f24cd0e057b1a0d940400fd8"/>
   <project name="platform/external/speex" path="external/speex" revision="9965152ae52eb4dfdafbdcd8b55e39d1a23052e0"/>
   <project name="platform/external/sqlite" path="external/sqlite" revision="ebc6b24ff37b903195b37f143a5791c9f02be8df"/>
@@ -113,7 +110,7 @@
   <project name="platform/external/wpa_supplicant_6" path="external/wpa_supplicant_6" revision="c1ce337f7a9d8f8f1c1a1dbf2f68c1afa95bc2ab"/>
   <project name="platform/external/xmlwriter" path="external/xmlwriter" revision="e95d92246ee35273dde2bee8b00485cc14c12be5"/>
   <project name="platform/external/yaffs2" path="external/yaffs2" revision="f9485fe8567fc50f2eecf35055ee5c5c31d61362"/>
-  <project name="platform/external/zlib" path="external/zlib" revision="381716e9396b55b1adb8235b020c37344f60ab07"/>
+  <project name="platform/external/zlib" path="external/zlib" revision="d834beaf3037eed0745f6dbd987a3bd8b3bf7ee4"/>
   <project name="platform/frameworks/base" path="frameworks/base" revision="c1aea2f38c7a6447220eab3216316e4a00d5ad53"/>
   <project name="platform/frameworks/ex" path="frameworks/ex" revision="d8e057e067696d5e75999fcec1736b8963f3bf92"/>
   <project name="platform/frameworks/compile/libbcc" path="external/llvm/libbcc" revision="e405ef4f8a375b440b31fed16471f5b52e2357e3"/>
@@ -177,7 +174,7 @@
   <project name="platform/prebuilt" path="prebuilt" revision="acc2610bdea5ddbd022a25cf2630f5a7375196aa"/>
   <project name="platform/sdk" path="sdk" revision="63442129aa2c3e4e5a3c83a79c66b00924957c20"/>
   <project name="platform/system/bluetooth" path="system/bluetooth" revision="30a738e653aa2d9f7670d0b19409ce30916cc397"/>
-  <project name="platform/system/core" path="system/core" revision="f4f7697f69a68abc755d9c4d1ef384984d81b164"/>
+  <project name="platform/system/core" path="system/core" revision="6cebee264761cf9ed3a9b8b1ec939baf6e446afd"/>
   <project name="platform/system/extras" path="system/extras" revision="10112f51911af42c4e32791858f498900155f9af"/>
   <project name="platform/system/media" path="system/media" revision="3a524202e831bf7e26d0fc3b1dd16df7eb6237f0"/>
   <project name="platform/system/netd" path="system/netd" revision="a783390cc37cc8321fe695ba95ffaa5b6a2ed05b"/>
