@@ -15,7 +15,7 @@ Following builds were reconstructed:
 | [`HRH27`][HRH27] (October 27th, 2010)    | Done             |
 | [`HRH54C`][HRH54C] (November 24th, 2010) | Done             |
 | [`HRH83D`][HRH83D] (December 27th, 2010) | Done             |
-| [`HRI39`][HRI39] (Android 3.0 r1)        | Work in progress |
+| [`HRI39`][HRI39] (Android 3.0 r1)        | Done             |
 
 [HRG15]:  https://github.com/Typicals-Android-Stuff/froyocomb/tree/HRG15
 [HRG30]:  https://github.com/Typicals-Android-Stuff/froyocomb/tree/HRG30
