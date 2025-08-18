@@ -30,17 +30,18 @@
   <project name="platform/external/bluetooth/bluez" path="external/bluetooth/bluez" revision="3a8a13d6ce59205d0a68bdee4835fded32042791"/>
   <project name="platform/external/bluetooth/glib" path="external/bluetooth/glib" revision="b469581b8f4b43847c592d34b08abce479ab44a3"/>
   <project name="platform/external/bluetooth/hcidump" path="external/bluetooth/hcidump" revision="ce36a6c7c5f8043c038415d8e270d55d9834008d"/>
-  <project name="platform/external/bouncycastle" path="external/bouncycastle" revision="b04bbc72336971137c5f3daceb4846605214d22b"/>
+  <!-- [HRF91] tentative -->
+  <project name="platform/external/bouncycastle" path="external/bouncycastle" revision="1037c5cbe13a6efca4417979e1d649efa094f837"/>
   <project name="platform/external/bsdiff" path="external/bsdiff" revision="df980d633fd0bdc0b89af26630f543d91bb87e68"/>
   <project name="platform/external/bzip2" path="external/bzip2" revision="acecdb4ea44e810a5ddb53e0c3fa4baf04b4a5c9"/>
   <project name="platform/external/chromium" path="external/chromium" revision="5e43ad9465e402d595a3c960784b1effe2e9bd88"/>
-  <project name="platform/external/clearsilver" path="external/clearsilver" revision="11a4773bb2459eb7adb84163bc21d8438cd085bd"/>
+  <project name="platform/external/clearsilver" path="external/clearsilver" revision="5cf5a5843592a87c82264ec5fa3d46f73eb1e199"/>
   <project name="platform/external/clang" path="external/llvm/llvm/tools/clang" revision="ec29bc0265b0a67e7e47947fd5e0707f46c15d4a"/>
-  <project name="platform/external/dbus" path="external/dbus" revision="9ac116daa55c8a09768f85f80d056e1621d45e55"/>
+  <project name="platform/external/dbus" path="external/dbus" revision="412bef7d740299ad6dd6fbccc0649052ba5057b0"/>
   <project name="platform/external/dhcpcd" path="external/dhcpcd" revision="9661983ab7964d195432d905f721f9dd59163edc"/>
   <project name="platform/external/dnsmasq" path="external/dnsmasq" revision="ffd82a77512f2d0971660e9cbd77242d8982a0b5"/>
   <project name="platform/external/dropbear" path="external/dropbear" revision="d3a3a803df8f32e9ba26758b3a9d7fbd27a3dc9c"/>
-  <project name="platform/external/e2fsprogs" path="external/e2fsprogs" revision="96713431bbeb5270b545b160da1e3f6167835d0b"/>
+  <project name="platform/external/e2fsprogs" path="external/e2fsprogs" revision="7da46cbd2ee1f5f7973a5e4332cc6389e696110b"/>
   <project name="platform/external/easymock" path="external/easymock" revision="cef83e796d0ab91f15a22f2eb837fce7cb8fe9c9"/>
   <project name="platform/external/elfcopy" path="external/elfcopy" revision="62c1bed1c4505369cac2e72fbe30452a598fb690"/>
   <project name="platform/external/elfutils" path="external/elfutils" revision="a25f6b75948b8253cef5ab0cd435b6fa7e1b65ae"/>
@@ -58,7 +59,7 @@
   <project name="platform/external/guava" path="external/guava" revision="f9db74af491ba7b54a02fb0b2102c56b3d11ecd3"/>
   <project name="platform/external/harfbuzz" path="external/harfbuzz" revision="bc5032157caeb9e460d05f147c010fe9df851f4c"/>
   <project name="platform/external/hyphenation" path="external/hyphenation" revision="2c8b0b3430ee6a9ee501e6cc7921f8790851c286"/>
-  <project name="platform/external/icu4c" path="external/icu4c" revision="d5a365087f4912cf5a04cdaa46cfd0277c4fa665"/>
+  <project name="platform/external/icu4c" path="external/icu4c" revision="8e16d66330c8eb0fe46592ffc8a4f5a76be35e1f"/>
   <project name="platform/external/iproute2" path="external/iproute2" revision="a3bf26f14bd98e38677a685e34cb5d3bfbd4a816"/>
   <project name="platform/external/ipsec-tools" path="external/ipsec-tools" revision="4fe3597dce855ea199afa239498c9c1833a6fe48"/>
   <project name="platform/external/iptables" path="external/iptables" revision="4a820b4c41de49482adce1a4e7424ca124b6b233"/>
@@ -67,47 +68,48 @@
   <project name="platform/external/jpeg" path="external/jpeg" revision="60ba49e6e7ce3276ad250447ad920b2434b0fbed"/>
   <project name="platform/external/jsr305" path="external/jsr305" revision="d1a2bbbeedbcbd1c7cda3834be528dec71584302"/>
   <project name="platform/external/junit" path="external/junit" revision="e9b8080d6d80d17729e0b7f8b1d2b573b3456cc4"/>
-  <project name="platform/external/kernel-headers" path="external/kernel-headers" revision="ef379ffdaf931ffc4884b84703ce4906a987b559"/>
+  <project name="platform/external/kernel-headers" path="external/kernel-headers" revision="41b702efb3d18195435a4311d97b3a2a875c2d43"/>
   <project name="platform/external/libffi" path="external/libffi" revision="5dea54fd57265ce037ac94055b9f94a45558b39e"/>
+  <!-- [HRF91] TODO: libnl? -->
   <project name="platform/external/libpcap" path="external/libpcap" revision="3a7bce5dda6a8db92c9248846d0255e68c3a5b2a"/>
-  <project name="platform/external/libphonenumber" path="external/libphonenumber" revision="4b7846722d1a5acb0577b07e98324f744f5e7942"/>
+  <project name="platform/external/libphonenumber" path="external/libphonenumber" revision="d644aa0ae3dea867301bead6f7dc27ac19189db4"/>
   <project name="platform/external/libpng" path="external/libpng" revision="5f6bd84e375226bf228fc8ac90318957ec9e1e7f"/>
   <project name="platform/external/libvpx" path="external/libvpx" revision="90d3ed91ae9228e1c8bab561b6138d4cb8c1e4fd"/>
   <project name="platform/external/libxml2" path="external/libxml2" revision="17b865f2a1a0ac37a545ac37a0ce489a2506e146"/>
   <project name="platform/external/libxslt" path="external/libxslt" revision="d9120218522dc5da663e78996d0f042c0a62bc5e"/>
-  <project name="platform/external/llvm" path="external/llvm/llvm" revision="e65ac2e75d693930b7f7988e8be09fc157f68cab"/>
+  <project name="platform/external/llvm" path="external/llvm/llvm" revision="512d7ab8a03215be54f1f48f10fd1b9059c32949"/>
   <project name="platform/external/mtpd" path="external/mtpd" revision="7d4f656f92c2c846741c81facf13958d40570b0f"/>
   <project name="platform/external/netcat" path="external/netcat" revision="fc2dc55c510657073ef4235658167a878e82cefa"/>
   <project name="platform/external/netperf" path="external/netperf" revision="58ecd3b7c76263900e38921360e334a416aec362"/>
   <project name="platform/external/neven" path="external/neven" revision="d898f9992b4db8f63ec707b07f3802ce3181ffda"/>
-  <project name="platform/external/nist-sip" path="external/nist-sip" revision="2be81a52ec4037c9eba312631069d80aebdbcbdf"/>
+  <project name="platform/external/nist-sip" path="external/nist-sip" revision="701b995bc6fd59c6888510d46099d8e32e3c6511"/>
   <project name="platform/external/oauth" path="external/oauth" revision="c76276a1d6165cfb502b06f65b1735fef0754d26"/>
   <project name="platform/external/opencore" path="external/opencore" revision="61bf9af643abf0011dcf82ae8a436aeb7e8aae97"/>
-  <project name="platform/external/openssl" path="external/openssl" revision="4f16e619f191ec2041275b4ff5235663d583e484"/>
-  <project name="platform/external/oprofile" path="external/oprofile" revision="c4ad4bafe1bc1c9e92be1995c288ff89eb7b191e"/>
+  <project name="platform/external/openssl" path="external/openssl" revision="b2c3821cf900ede3f0afe5137bfe9c98ffb012ce"/>
+  <project name="platform/external/oprofile" path="external/oprofile" revision="802e057e6e55fc120cb6d344ca5e6a2690cff3f0"/>
   <project name="platform/external/ping" path="external/ping" revision="05cc700c9089ff72accb1c76a67c01b5d176bf3e"/>
   <project name="platform/external/ppp" path="external/ppp" revision="42d99d5976f48b5f604bda08d112d6f583674da7"/>
   <project name="platform/external/proguard" path="external/proguard" revision="6660cb6cb4231a03a3c02127fa5c4e7828422caa"/>
   <project name="platform/external/protobuf" path="external/protobuf" revision="732aaf0089505130cea55633bcfb2fdf5111f380"/>
-  <project name="platform/external/qemu" path="external/qemu" revision="7258f6b1539906849d02fa9f5e75360b0d01f48c"/>
+  <project name="platform/external/qemu" path="external/qemu" revision="a21ac6912568a1d36a2919669f905bc58be21244"/>
   <project name="platform/external/quake" path="external/quake" revision="0b098acc31bcd0f40288fc0b31466509ed5df2ee"/>
   <project name="platform/external/safe-iop" path="external/safe-iop" revision="084f46f834a5327a301984a0d72404551cd2cb6f"/>
-  <project name="platform/external/skia" path="external/skia" revision="e1e74339345e683635d1daaa68969d50c08ec370"/>
-  <project name="platform/external/sonivox" path="external/sonivox" revision="0f0fe34443b8b755f24cd0e057b1a0d940400fd8"/>
+  <project name="platform/external/skia" path="external/skia" revision="525950592961abc4dbe97dac8b1456a0ccdd57ca"/>
+  <project name="platform/external/sonivox" path="external/sonivox" revision="4fe08534dea6b494dd6bbdfa5be605bd4f0e1ac7"/>
   <project name="platform/external/speex" path="external/speex" revision="9965152ae52eb4dfdafbdcd8b55e39d1a23052e0"/>
-  <project name="platform/external/sqlite" path="external/sqlite" revision="ebc6b24ff37b903195b37f143a5791c9f02be8df"/>
+  <project name="platform/external/sqlite" path="external/sqlite" revision="176bf03af2edfb2a45b66dcb5daf822cc50c499e"/>
   <project name="platform/external/srec" path="external/srec" revision="35a6d12873c94f19efdf4763b7ed4f00212b1d15"/>
-  <project name="platform/external/stlport" path="external/stlport" revision="4f3cdf5ab8923985cfb41b31d55c8c731127ca0f"/>
+  <project name="platform/external/stlport" path="external/stlport" revision="c126c88241fa6322d9d78db0ca632814e3e62f9d"/>
   <project name="platform/external/strace" path="external/strace" revision="fb19d317e61dfbb8234bb23d5c7cc40827667ec2"/>
-  <project name="platform/external/svox" path="external/svox" revision="46960c7fc30735201659b4f8d81cc3ed5c75e54c"/>
+  <project name="platform/external/svox" path="external/svox" revision="4119796c752cb3b6ed9b6bc3b519a27878871ed9"/>
   <project name="platform/external/tagsoup" path="external/tagsoup" revision="68c2ec9e0acdb3214b7fb91dbab8c9fab8736817"/>
   <project name="platform/external/tcpdump" path="external/tcpdump" revision="532b8f38c144da9a298260a5d8978ab9e8e3856c"/>
   <project name="platform/external/tinyxml" path="external/tinyxml" revision="d589f7e4a51e75bd5c98a3defd8ee84d7059e86e"/>
-  <project name="platform/external/tremolo" path="external/tremolo" revision="ef03ae17fcbd7474f839cc2fee27a58369cf41dd"/>
-  <project name="platform/external/v8" path="external/v8" revision="ac95265630a4e0c317a7a7201d17a57df7d9bcce"/>
-  <project name="platform/external/webkit" path="external/webkit" revision="ff80790be406da04e7afbd8aea7bb0e26f1f08f0"/>
+  <project name="platform/external/tremolo" path="external/tremolo" revision="9a688754461ebfc91769b5d3c8ba5aba9fe1f376"/>
+  <project name="platform/external/v8" path="external/v8" revision="a94adf74b8a91ff002b9cade1736e5c4a50d52fb"/>
+  <project name="platform/external/webkit" path="external/webkit" revision="5bde0f53b35681f9195cca182adfbcba8edc47f6"/>
   <project name="platform/external/wpa_supplicant" path="external/wpa_supplicant" revision="4d8c3c1ca334d1319decf3e2c5d2be0cf472e3f9"/>
-  <project name="platform/external/wpa_supplicant_6" path="external/wpa_supplicant_6" revision="c1ce337f7a9d8f8f1c1a1dbf2f68c1afa95bc2ab"/>
+  <project name="platform/external/wpa_supplicant_6" path="external/wpa_supplicant_6" revision="644ed1d27e22fd1197a714945a9ec4cdfa02e0cc"/>
   <project name="platform/external/xmlwriter" path="external/xmlwriter" revision="e95d92246ee35273dde2bee8b00485cc14c12be5"/>
   <project name="platform/external/yaffs2" path="external/yaffs2" revision="f9485fe8567fc50f2eecf35055ee5c5c31d61362"/>
   <project name="platform/external/zlib" path="external/zlib" revision="2ef2b5f9fd3e2ef2819ed6e915ac4d6a93efb62f"/>
