@@ -13,16 +13,16 @@
   
   <project name="device/common" revision="d468cbeb023507ce9c0e01e688038b9c56c403e7"/>
   <project name="device/sample" revision="223669e41d1f6b250ab44080af09237ba011aa58"/>
-  <project name="platform/bionic" path="bionic" revision="fb6907d39c7ffda90049cb73001ade59e7931a64"/>
+  <project name="platform/bionic" path="bionic" revision="68bcaa4a7b12250d2582fdf59a9e331537e98be0"/>
   <project name="platform/bootable/bootloader/legacy" path="bootable/bootloader/legacy" revision="d3271024770ddcc2fb87dd22f8280764545ab05a"/>
-  <project name="platform/bootable/diskinstaller" path="bootable/diskinstaller" revision="0589d96bbe85069577f00de0b75a8031f2457c01"/>
-  <project name="platform/bootable/recovery" path="bootable/recovery" revision="050d0f7fec309a51d1e616a98882faaf3655e04e"/>
+  <project name="platform/bootable/diskinstaller" path="bootable/diskinstaller" revision="53bd9111b5ae1fc1180ec13755d9830f7cadacf5"/>
+  <project name="platform/bootable/recovery" path="bootable/recovery" revision="ba634dc9f70af3024e8db566b7a223066ee4527e"/>
   <project name="platform/build" path="build" revision="89a23411ef0b7c023bbd98bc68b67f33a87962dc">
     <copyfile dest="Makefile" src="core/root.mk"/>
   </project>
-  <project name="platform/cts" path="cts" revision="44adb1eecb5bfc0490d131fbd213904e79752a9e"/>
-  <project name="platform/dalvik" path="dalvik" revision="23280a2598d72733223c69a6ff3ab9dd5005c751"/>
-  <project name="platform/development" path="development" revision="a8ccef2afb63632c403d96dde289a653b5e2aa17"/>
+  <project name="platform/cts" path="cts" revision="5bb4d93f8a99243956919a6120398b8a142892f5"/>
+  <project name="platform/dalvik" path="dalvik" revision="11b4c7c0934cbf93f737f8c52cec68fbbd415145"/>
+  <project name="platform/development" path="development" revision="7f5176b8b27db8dc1e1b17695a65dbe46d3c0e29"/>
   <project name="platform/external/apache-http" path="external/apache-http" revision="5648c97be2c515bdafeff3d8a4b07ea0ddc3e357"/>
   <project name="platform/external/astl" path="external/astl" revision="a9a7cf4eff812b972e6aabb89bed58f2013f6d3c"/>
   <project name="platform/external/bison" path="external/bison" revision="889df9c1efa7ca5de113407ab7793b57a6db677d"/>
@@ -111,23 +111,24 @@
   <project name="platform/external/xmlwriter" path="external/xmlwriter" revision="e95d92246ee35273dde2bee8b00485cc14c12be5"/>
   <project name="platform/external/yaffs2" path="external/yaffs2" revision="f9485fe8567fc50f2eecf35055ee5c5c31d61362"/>
   <project name="platform/external/zlib" path="external/zlib" revision="2ef2b5f9fd3e2ef2819ed6e915ac4d6a93efb62f"/>
-  <project name="platform/frameworks/base" path="frameworks/base" revision="5ba2e74560dcbf4d5f8d30a89807c1148425ed21"/>
-  <project name="platform/frameworks/ex" path="frameworks/ex" revision="d8e057e067696d5e75999fcec1736b8963f3bf92"/>
+  <project name="platform/frameworks/base" path="frameworks/base" revision="3dcfeac8900012ebba8329ec420bbd2fa47c262a"/>
+  <project name="platform/frameworks/ex" path="frameworks/ex" revision="8320c15293c46f9f1de9137dd1ce9465a0c66e9c"/>
   <project name="platform/frameworks/compile/libbcc" path="external/llvm/libbcc" revision="e405ef4f8a375b440b31fed16471f5b52e2357e3"/>
-  <project name="platform/frameworks/compile/slang" path="external/llvm/slang" revision="e3756aa450b690cf5d18c0ea572ef7563de97bb3"/>
+  <project name="platform/frameworks/compile/slang" path="external/llvm/slang" revision="48bac230fe966771f3074975fc2426ffde519edf"/>
   <project name="platform/frameworks/opt/emoji" path="frameworks/opt/emoji" revision="49f8fa5f480ae382f9087fde333b50072b214ad2"/>
-  <project name="platform/frameworks/opt/vcard" path="frameworks/opt/vcard" revision="d5a8fc2a35c69fc34df35fd545ccf83d548ba50c"/>
-  <project name="platform/hardware/broadcom/wlan" path="hardware/broadcom/wlan" revision="db909afa23c0e12629df56d6ae19882bd10ec508"/>
-  <project name="platform/hardware/libhardware" path="hardware/libhardware" revision="9eed234b60cfebf68e91090151848d357e7c2427"/>
-  <project name="platform/hardware/libhardware_legacy" path="hardware/libhardware_legacy" revision="7fbf4515ec1b315264ab86b05eaafb4c154ecd3e"/>
-  <project name="platform/hardware/msm7k" path="hardware/msm7k" revision="cc21e31f6a8b78be75fb7069287a3f22c1f83537"/>
+  <project name="platform/frameworks/opt/vcard" path="frameworks/opt/vcard" revision="147f1ae5371954ae845cb2330b221df6ca1d8831"/>
+  <project name="platform/hardware/broadcom/wlan" path="hardware/broadcom/wlan" revision="3143e3435f94b71d3ef5d87ac43dae590d750f97"/>
+  <project name="platform/hardware/libhardware" path="hardware/libhardware" revision="ffc682e85771ce587c59c2bb01e948e1b373377a"/>
+  <project name="platform/hardware/libhardware_legacy" path="hardware/libhardware_legacy" revision="b33a811e81c126893dfadafca1fcbe5ae8564551"/>
+  <project name="platform/hardware/msm7k" path="hardware/msm7k" revision="caf942d99727eaa68fc625b22240100c23f9a270"/>
   <project name="platform/hardware/qcom/gps" path="hardware/qcom/gps" revision="5153d56321e20974d29c0649839d96e8351775b6"/>
-  <project name="platform/hardware/qcom/media" path="hardware/qcom/media" revision="6d205a852bd0e35fbc1070c36b821ba3e9e23a4b"/>
-  <project name="platform/hardware/ril" path="hardware/ril" revision="985f527de71573b7ffb610b87e42f04704da3a79"/>
-  <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" revision="340d3b96a409aa6e941d3b013dbfbb7e9b548994"/>
+  <project name="platform/hardware/qcom/media" path="hardware/qcom/media" revision="30a73034f38ba1cf31de98ce2560109ce6e535a6"/>
+  <project name="platform/hardware/ril" path="hardware/ril" revision="0d9f0c0ea45a0239653e04f2c63ccecb1bc62c6b"/>
+  <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" revision="0f8e72a03dc50f6d6b81aa87803ea558fe4f7b6c"/>
   <project name="platform/hardware/ti/wlan" path="hardware/ti/wlan" revision="07765242d3d162441bc48e96835220740732744b"/>
-  <project name="platform/libcore" path="libcore" revision="478f5f9576c399c30288cf79d6bbf65ca5feedfd"/>
-  <project name="platform/ndk" path="ndk" revision="3470a618693a8709508e2621b9c5523b32b1a406"/>
+  <project name="platform/libcore" path="libcore" revision="c979604292df37d82a8d62b0e0b3ac0c460b6f5f"/>
+  <!-- [HRF91] tentative -->
+  <project name="platform/ndk" path="ndk" revision="d30438ecdd41b9fea547b4a776bb252f7616d88e"/>
   <project name="platform/packages/apps/AccountsAndSyncSettings" path="packages/apps/AccountsAndSyncSettings" revision="46f880c87cd2a8e3ca5c259a9babc24850ddf746"/>
   <project name="platform/packages/apps/Bluetooth" path="packages/apps/Bluetooth" revision="284bbfbfd18dd6cc33404b9fb58b7b5c164452b8"/>
   <project name="platform/packages/apps/Browser" path="packages/apps/Browser" revision="b4fb25cb5bb9231ea5f1e0d4f950bf89cf617ba7"/>
@@ -171,13 +172,13 @@
   <project name="platform/packages/wallpapers/LivePicker" path="packages/wallpapers/LivePicker" revision="19d66c1c422f71b06dbea1827372592432c816b8"/>
   <project name="platform/packages/wallpapers/MagicSmoke" path="packages/wallpapers/MagicSmoke" revision="d55663e5c28b1de8d9532e83f754c0dc7ff8ca9e"/>
   <project name="platform/packages/wallpapers/MusicVisualization" path="packages/wallpapers/MusicVisualization" revision="2d2cd625e200a365f50b3b0b8f8e29ecd5552b44"/>
-  <project name="platform/prebuilt" path="prebuilt" revision="acc2610bdea5ddbd022a25cf2630f5a7375196aa"/>
-  <project name="platform/sdk" path="sdk" revision="63442129aa2c3e4e5a3c83a79c66b00924957c20"/>
+  <project name="platform/prebuilt" path="prebuilt" revision="70ed0a52f271180386c78035d2fcc33a17fec089"/>
+  <project name="platform/sdk" path="sdk" revision="1d21469ba4c7a69dc96f264d979c03b8a189a9cf"/>
   <project name="platform/system/bluetooth" path="system/bluetooth" revision="30a738e653aa2d9f7670d0b19409ce30916cc397"/>
-  <project name="platform/system/core" path="system/core" revision="f4f7697f69a68abc755d9c4d1ef384984d81b164"/>
-  <project name="platform/system/extras" path="system/extras" revision="10112f51911af42c4e32791858f498900155f9af"/>
-  <project name="platform/system/media" path="system/media" revision="3a524202e831bf7e26d0fc3b1dd16df7eb6237f0"/>
+  <project name="platform/system/core" path="system/core" revision="d0645bf0cc76ef7be11cf77a8e1995233a1972e4"/>
+  <project name="platform/system/extras" path="system/extras" revision="263eefd9fb9608432636c903423e43848e69f39d"/>
+  <project name="platform/system/media" path="system/media" revision="0be462d1a6068087b6313bda25f48d7ee956a084"/>
   <project name="platform/system/netd" path="system/netd" revision="a783390cc37cc8321fe695ba95ffaa5b6a2ed05b"/>
-  <project name="platform/system/vold" path="system/vold" revision="fb7c4d5a8a1031cf0e493ff182dcf458e5fe8c77"/>
+  <project name="platform/system/vold" path="system/vold" revision="99635f6c289fe2528c226403ea215c917ce86037"/>
   <project name="platform/system/wlan/ti" path="system/wlan/ti" revision="3baca6cc248e0d9a852c25b214c92bc856ae03ea"/>
 </manifest>
