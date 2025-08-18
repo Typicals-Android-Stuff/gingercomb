@@ -158,7 +158,6 @@
   <project name="platform/packages/apps/Stk" path="packages/apps/Stk" revision="1f04bacb57af5ac14852cc1056f53016560cc656"/>
   <project name="platform/packages/apps/VoiceDialer" path="packages/apps/VoiceDialer" revision="38dad070c55c91d1c7abd909b5c37beb7c874a89"/>
   <project name="platform/packages/experimental" path="packages/experimental" revision="e87bd517767784bb40f1fac51309fee5b829b00e"/>
-  <!-- [HRF91] alt: 67607ea8b12a149f95a5d74b94ff550eac4bd0ff -->
   <project name="platform/packages/inputmethods/LatinIME" path="packages/inputmethods/LatinIME" revision="57691a35743e3705abe60db4902f9ad3c0e722d8"/>
   <project name="platform/packages/inputmethods/OpenWnn" path="packages/inputmethods/OpenWnn" revision="27ab9d1b806f03554d2abb50de26abe7bf234336"/>
   <project name="platform/packages/inputmethods/PinyinIME" path="packages/inputmethods/PinyinIME" revision="6b7954e2967754a77c55dc4291941978e3508259"/>
