@@ -21,7 +21,7 @@
     <copyfile dest="Makefile" src="core/root.mk"/>
   </project>
   <project name="Typicals-Android-Stuff/froyocomb-platform_cts" path="cts" remote="github" revision="honeycomb-android-3.0_r1-fix"/>
-  <project name="platform/dalvik" path="dalvik" revision="1941065939b7e19c71a9ef4c176bace792e93ef3"/>
+  <project name="platform/dalvik" path="dalvik" revision="238ab4b31a286d71a98400d01534fe9874fd1f57"/>
   <project name="platform/development" path="development" revision="ebbef932a7a030adbda33a4d5e2c3e0d2bfa7e49"/>
   <project name="platform/external/apache-http" path="external/apache-http" revision="4ccaefba5f96ebac5c7bb90c9b44463200afe18e"/>
   <project name="platform/external/apache-xml" path="external/apache-xml" revision="d51e4ac4a875860f724c9211608ad975da7f8ed7"/>
