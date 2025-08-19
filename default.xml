@@ -23,7 +23,7 @@
   <project name="platform/cts" path="cts" revision="4e8123e2df00bca91947f7aa80225bf252b8df86"/>
   <project name="platform/dalvik" path="dalvik" revision="bf11852aa3b56f1f77841dd0dbb3cc984711d674"/>
   <project name="platform/development" path="development" revision="194cf3b8fbd6a713b23f9b66c4e476e05d06c46b"/>
-  <project name="platform/external/apache-http" path="external/apache-http" revision="5648c97be2c515bdafeff3d8a4b07ea0ddc3e357"/>
+  <project name="platform/external/apache-http" path="external/apache-http" revision="ffdb17578754105930c12cf7989a06914b96190f"/>
   <project name="platform/external/astl" path="external/astl" revision="a9a7cf4eff812b972e6aabb89bed58f2013f6d3c"/>
   <project name="platform/external/bison" path="external/bison" revision="889df9c1efa7ca5de113407ab7793b57a6db677d"/>
   <project name="platform/external/blktrace" path="external/blktrace" revision="d523266d0c81d27e0afa29868b0d3c06aaff38b3"/>
@@ -124,7 +124,7 @@
   <project name="platform/hardware/ril" path="hardware/ril" revision="16c00522e27da0cfcbc4d926900e534e1583168f"/>
   <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" revision="a0b2785f72203860a685b5acbe3c7d4a11e61d4d"/>
   <project name="platform/hardware/ti/wlan" path="hardware/ti/wlan" revision="41ecb6fc3e74edbf5c049054b299278e66d92fc1"/>
-  <project name="platform/libcore" path="libcore" revision="83244e5bec9d489a097251c3df8cd22b36f4f648"/>
+  <project name="platform/libcore" path="libcore" revision="590b99434696edf3f14843c85406eaf197dbc044"/>
   <project name="platform/ndk" path="ndk" revision="53d2b0dcc4fa5edad0994542f40e483485069ee5"/>
   <project name="platform/packages/apps/AccountsAndSyncSettings" path="packages/apps/AccountsAndSyncSettings" revision="78ec120342240affe0255fd6341fff993bfeff27"/>
   <project name="platform/packages/apps/Bluetooth" path="packages/apps/Bluetooth" revision="59a9d43a7f921d5aafd131d815570044f9e96f88"/>
@@ -172,7 +172,7 @@
   <project name="platform/prebuilt" path="prebuilt" revision="e19e12d257815bef7bfe4f3d81056a5b2464c464"/>
   <project name="platform/sdk" path="sdk" revision="f264a2feef17240bc321b4465813a9d83174cfde"/>
   <project name="platform/system/bluetooth" path="system/bluetooth" revision="30a738e653aa2d9f7670d0b19409ce30916cc397"/>
-  <project name="platform/system/core" path="system/core" revision="7ad012bde5fe312ddc8ecfb515e16aebd39386d4"/>
+  <project name="platform/system/core" path="system/core" revision="044422e82890f6dbd0981f6b665b2ee59f0c26b0"/>
   <project name="platform/system/extras" path="system/extras" revision="545e6ca13f744650e4a62630f1b901c0840dcd43"/>
   <project name="platform/system/media" path="system/media" revision="aebee5083e2ee7d151e0e450fd59dc070cc720b9"/>
   <project name="platform/system/netd" path="system/netd" revision="a783390cc37cc8321fe695ba95ffaa5b6a2ed05b"/>
