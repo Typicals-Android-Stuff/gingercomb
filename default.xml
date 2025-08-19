@@ -20,7 +20,7 @@
   <project name="platform/build" path="build" revision="f1416e21ba543608eb998699a798f6abd9410132">
     <copyfile dest="Makefile" src="core/root.mk"/>
   </project>
-  <project name="platform/cts" path="cts" revision="83a4a1c6a6afafeddb1b4e38a012dc66b09f3a53"/>
+  <project name="platform/cts" path="cts" revision="3776b0c4c539d23616325767c579377141af12b0"/>
   <project name="platform/dalvik" path="dalvik" revision="dc28534060f6ff080b5b7ae9e36f8519033620f5"/>
   <project name="platform/development" path="development" revision="194cf3b8fbd6a713b23f9b66c4e476e05d06c46b"/>
   <project name="platform/external/apache-http" path="external/apache-http" revision="ffdb17578754105930c12cf7989a06914b96190f"/>
@@ -88,7 +88,7 @@
   <project name="platform/external/ping" path="external/ping" revision="05cc700c9089ff72accb1c76a67c01b5d176bf3e"/>
   <project name="platform/external/ppp" path="external/ppp" revision="42d99d5976f48b5f604bda08d112d6f583674da7"/>
   <project name="platform/external/proguard" path="external/proguard" revision="6660cb6cb4231a03a3c02127fa5c4e7828422caa"/>
-  <project name="platform/external/protobuf" path="external/protobuf" revision="00302c1d16d56db8267bf948d273b676a26e9ca8"/>
+  <project name="platform/external/protobuf" path="external/protobuf" revision="1b639e09d77de609bed080f5d2ca88d72ba42559"/>
   <project name="platform/external/qemu" path="external/qemu" revision="377eb2c7c762db6e28fa273ac7e4747a7c9e037e"/>
   <project name="platform/external/quake" path="external/quake" revision="0b098acc31bcd0f40288fc0b31466509ed5df2ee"/>
   <project name="platform/external/safe-iop" path="external/safe-iop" revision="084f46f834a5327a301984a0d72404551cd2cb6f"/>
