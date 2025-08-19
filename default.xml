@@ -128,7 +128,7 @@
   <project name="platform/ndk" path="ndk" revision="53d2b0dcc4fa5edad0994542f40e483485069ee5"/>
   <project name="platform/packages/apps/AccountsAndSyncSettings" path="packages/apps/AccountsAndSyncSettings" revision="78ec120342240affe0255fd6341fff993bfeff27"/>
   <project name="platform/packages/apps/Bluetooth" path="packages/apps/Bluetooth" revision="59a9d43a7f921d5aafd131d815570044f9e96f88"/>
-  <project name="platform/packages/apps/Browser" path="packages/apps/Browser" revision="c1bdc4e936b2e487b341839bcc1595c3d1f2fa12"/>
+  <project name="platform/packages/apps/Browser" path="packages/apps/Browser" revision="0df0a2a20a4e1418983126e72af0e62ebc0cc8f3"/>
   <project name="platform/packages/apps/Calculator" path="packages/apps/Calculator" revision="b1cdfe80d93363e5719d71d719657b69eadbd984"/>
   <project name="platform/packages/apps/Calendar" path="packages/apps/Calendar" revision="22e35dd7e1b2a67f9347445677b7793219c14a59"/>
   <project name="platform/packages/apps/Camera" path="packages/apps/Camera" revision="b84acd02e46f87dead1fa75abb14427bf29ba8d8"/>
