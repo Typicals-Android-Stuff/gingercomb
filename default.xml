@@ -30,8 +30,8 @@
   <project name="platform/external/bluetooth/bluez" path="external/bluetooth/bluez" revision="3a8a13d6ce59205d0a68bdee4835fded32042791"/>
   <project name="platform/external/bluetooth/glib" path="external/bluetooth/glib" revision="b469581b8f4b43847c592d34b08abce479ab44a3"/>
   <project name="platform/external/bluetooth/hcidump" path="external/bluetooth/hcidump" revision="ce36a6c7c5f8043c038415d8e270d55d9834008d"/>
-  <!-- [HRF91] tentative -->
-  <project name="platform/external/bouncycastle" path="external/bouncycastle" revision="1037c5cbe13a6efca4417979e1d649efa094f837"/>
+  <!-- [HRF91] tentative --> <!-- I changed the commit as it failed on bouncy castle - old commit -- 1037c5cbe13a6efca4417979e1d649efa094f837 -->
+  <project name="platform/external/bouncycastle" path="external/bouncycastle" revision="89a23411ef0b7c023bbd98bc68b67f33a87962dc"/>
   <project name="platform/external/bsdiff" path="external/bsdiff" revision="df980d633fd0bdc0b89af26630f543d91bb87e68"/>
   <project name="platform/external/bzip2" path="external/bzip2" revision="acecdb4ea44e810a5ddb53e0c3fa4baf04b4a5c9"/>
   <project name="platform/external/chromium" path="external/chromium" revision="5e43ad9465e402d595a3c960784b1effe2e9bd88"/>
