@@ -21,7 +21,7 @@
     <copyfile dest="Makefile" src="core/root.mk"/>
   </project>
   <project name="platform/cts" path="cts" revision="4e8123e2df00bca91947f7aa80225bf252b8df86"/>
-  <project name="platform/dalvik" path="dalvik" revision="bf11852aa3b56f1f77841dd0dbb3cc984711d674"/>
+  <project name="platform/dalvik" path="dalvik" revision="ebf98dfdb89d647223a95af4fb5d7ddf71dfbde7"/>
   <project name="platform/development" path="development" revision="194cf3b8fbd6a713b23f9b66c4e476e05d06c46b"/>
   <project name="platform/external/apache-http" path="external/apache-http" revision="5648c97be2c515bdafeff3d8a4b07ea0ddc3e357"/>
   <project name="platform/external/astl" path="external/astl" revision="a9a7cf4eff812b972e6aabb89bed58f2013f6d3c"/>
