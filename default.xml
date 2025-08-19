@@ -170,7 +170,7 @@
   <project name="platform/packages/providers/MediaProvider" path="packages/providers/MediaProvider" revision="d024a982b428430f5f362d48be9efb2031d7d41b"/>
   <project name="platform/packages/providers/TelephonyProvider" path="packages/providers/TelephonyProvider" revision="0ebbb48f9f83ad65d738d1910a38e4fbdb920ac7"/>
   <project name="platform/packages/providers/UserDictionaryProvider" path="packages/providers/UserDictionaryProvider" revision="f63351742705d7d421166cac23f7e23255a1f72e"/>
-  <project name="platform/packages/wallpapers/Basic" path="packages/wallpapers/Basic" revision="1ba864e729a2e6a55a6ffc1d5b67a0574faf92fb"/>
+  <project name="platform/packages/wallpapers/Basic" path="packages/wallpapers/Basic" revision="791703ecfaecc7fee4c86a36f06634aa14bfde0c"/>
   <project name="platform/packages/wallpapers/LivePicker" path="packages/wallpapers/LivePicker" revision="19d66c1c422f71b06dbea1827372592432c816b8"/>
   <project name="platform/packages/wallpapers/MagicSmoke" path="packages/wallpapers/MagicSmoke" revision="3e3ab7bb7f89a33ddb0983fe83bd41d46e4683f2"/>
   <project name="platform/packages/wallpapers/MusicVisualization" path="packages/wallpapers/MusicVisualization" revision="1f38354233dca45acaaf0b366c96d3a0e8b95e29"/>
