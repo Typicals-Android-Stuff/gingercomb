@@ -111,7 +111,7 @@
   <project name="platform/external/tinyxml" path="external/tinyxml" revision="d589f7e4a51e75bd5c98a3defd8ee84d7059e86e"/>
   <project name="platform/external/tremolo" path="external/tremolo" revision="ef03ae17fcbd7474f839cc2fee27a58369cf41dd"/>
   <project name="platform/external/v8" path="external/v8" revision="81362e16c30e9e970af6b17592f627ad8cdee4d8"/>
-  <project name="Typicals-Android-Stuff/froyocomb-platform_external_webkit" path="external/webkit" remote="github" revision="honeycomb-android-3.0_r1-fix"/>
+  <project name="platform/external/webkit" path="external/webkit" revision="56463a52c19062aae422f8b66ab866ec36d7712d"/>
   <project name="platform/external/webp" path="external/webp" revision="9aea642eefa7a641ab8b89d953251939221d2719"/>
   <project name="platform/external/wpa_supplicant" path="external/wpa_supplicant" revision="92202cf7a2e615b65e892aa8f633b469ddcb522e"/>
   <project name="platform/external/wpa_supplicant_6" path="external/wpa_supplicant_6" revision="a12fdfe7081a569335ae45c9c679ab144d85e3b3"/>
