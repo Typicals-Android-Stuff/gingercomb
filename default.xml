@@ -13,7 +13,7 @@
   
   <project name="device/common" revision="d468cbeb023507ce9c0e01e688038b9c56c403e7"/>
   <project name="device/sample" revision="223669e41d1f6b250ab44080af09237ba011aa58"/>
-  <project name="platform/bionic" path="bionic" revision="68bcaa4a7b12250d2582fdf59a9e331537e98be0"/>
+  <project name="platform/bionic" path="bionic" revision="4e6043a355ccc04b3e931edd7616d35ef5691278"/>
   <project name="platform/bootable/bootloader/legacy" path="bootable/bootloader/legacy" revision="d3271024770ddcc2fb87dd22f8280764545ab05a"/>
   <project name="platform/bootable/diskinstaller" path="bootable/diskinstaller" revision="53bd9111b5ae1fc1180ec13755d9830f7cadacf5"/>
   <project name="platform/bootable/recovery" path="bootable/recovery" revision="ba634dc9f70af3024e8db566b7a223066ee4527e"/>
