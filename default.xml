@@ -118,7 +118,7 @@
   <project name="platform/frameworks/opt/vcard" path="frameworks/opt/vcard" revision="147f1ae5371954ae845cb2330b221df6ca1d8831"/>
   <project name="platform/hardware/broadcom/wlan" path="hardware/broadcom/wlan" revision="a5519f3b2916e870b48047444eb93535d45c8bbd"/>
   <project name="platform/hardware/libhardware" path="hardware/libhardware" revision="b15879a589bb5ce350869e1a735840679e4b2aaa"/>
-  <project name="platform/hardware/libhardware_legacy" path="hardware/libhardware_legacy" revision="7c6051a4990d9c55245c90a233bb23e5cc5cb544"/>
+  <project name="platform/hardware/libhardware_legacy" path="hardware/libhardware_legacy" revision="445591dded5753cf72dcf329a56af732776de97d"/>
   <project name="platform/hardware/msm7k" path="hardware/msm7k" revision="6688eab51d3d61e77e93c13d1525b4fd38dec0ae"/>
   <project name="platform/hardware/qcom/gps" path="hardware/qcom/gps" revision="3c865ec2f9efbe5e21b55c1b43a2fbe9ffe1000a"/>
   <project name="platform/hardware/ril" path="hardware/ril" revision="16c00522e27da0cfcbc4d926900e534e1583168f"/>
