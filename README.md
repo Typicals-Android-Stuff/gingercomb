@@ -7,7 +7,8 @@ Following builds were reconstructed:
 
 | Build number                             | Status           |
 | :---:                                    |   :---:          |
-| [`HRF91`] (June 30, 2010)                | Work in progress |
+| [`HRF72`] (June 13, 2010)                | Work in progress |
+| [`HRF91`] (June 30, 2010)                | Done             |
 | [`HRG15`] (July 15, 2010)                | Done             |
 | [`HRG30`] (July 30, 2010)                | Done             |
 | [`HRG44B`] (August 13, 2010)             | Done             |
@@ -18,6 +19,7 @@ Following builds were reconstructed:
 | [`HRH83D`] (December 27th, 2010)         | Done             |
 | [`HRI39`] (Android 3.0 r1)               | Done             |
 
+[`HRF72`]:  https://github.com/Typicals-Android-Stuff/froyocomb/tree/HRF72
 [`HRF91`]:  https://github.com/Typicals-Android-Stuff/froyocomb/tree/HRF91
 [`HRG15`]:  https://github.com/Typicals-Android-Stuff/froyocomb/tree/HRG15
 [`HRG30`]:  https://github.com/Typicals-Android-Stuff/froyocomb/tree/HRG30
@@ -29,10 +31,23 @@ Following builds were reconstructed:
 [`HRH83D`]: https://github.com/Typicals-Android-Stuff/froyocomb/tree/HRH83D
 [`HRI39`]:  https://github.com/Typicals-Android-Stuff/froyocomb/tree/android-3.0_r1
 
+Preparing a Build Environment
+-----------------
+
+For installing dependencies, refer to the article ["Initializing a Build Environment"](https://web.archive.org/web/20140208084633/http://source.android.com/source/initializing.html) from the AOSP documentation. 
+
+It is recommended to use an older Linux distribution. All builds have been tested on Ubuntu 12.04 ("Precise Pangolin"), which can be downloaded from [here](https://old-releases.ubuntu.com/releases/12.04/ubuntu-12.04.5-desktop-amd64.iso). 
+
+For the repositories to work, it is needed to replace any `archive.ubuntu.com` and `security.ubuntu.com` mentions in your repository list (which is under /etc/apt/sources.list) with `old-releases.ubuntu.com`. Then, it will be possible to install required dependencies.
+
+Ubuntu 12.04 usually bundles newer GCC version, like 4.6. However, for those builds, GCC 4.4 is more recommended. To download older GCC, execute:
+
+    sudo apt-get install gcc-4.4 g++-4.4 gcc-4.4-multilib g++-4.4-multilib  
+
 Downloading Source
 ------------------
 
-To get started with downloading the source code, you'll need to get familiar with Git and [`repo`](https://source.android.com/docs/setup/reference/repo).
+To get started with downloading the source code, it is needed to get familiar with Git and [`repo`](https://source.android.com/docs/setup/reference/repo).
 
 To initialize a repository tree using one of the manifests provided by this project, execute a command like this (see the table above for available branches):
 
@@ -45,8 +60,6 @@ Then to download the respective code, execute:
 Compiling
 ---------
 
-For installing dependencies, refer to the article ["Initializing a Build Environment"](https://web.archive.org/web/20140208084633/http://source.android.com/source/initializing.html) from the AOSP documentation.
-
 To initialize the build environment, execute the following command:
 
     source build/envsetup.sh
@@ -54,6 +67,23 @@ To initialize the build environment, execute the following command:
 Then pick from one of the available build targets by executing the command:
 
     lunch
+	
+As appropriate device trees are not available in the source, the only targets that are possible to pick are the generic ones. 
+
+To compile Android, type:
+
+    make CC=gcc-4.4 CXX=g++-4.4
+	
+If builds older than HRG85C are compiled, it is required to add additional parameter `BUILD_WITHOUT_PV=true` to the build command.
+
+Usage
+-----
+
+To use the compiled build, run them in a emulator. To specify the resolution, use the `-skin` option.
+
+    emulator -skin 1280x800
+
+
 
 	
 	
