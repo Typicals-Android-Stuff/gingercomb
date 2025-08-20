@@ -74,7 +74,7 @@
   <project name="platform/external/libpcap" path="external/libpcap" revision="3a7bce5dda6a8db92c9248846d0255e68c3a5b2a"/>
   <project name="platform/external/libphonenumber" path="external/libphonenumber" revision="b2697412130f6d087dde01fb1a978f7e5840a5fa"/>
   <project name="platform/external/libpng" path="external/libpng" revision="4ce0ee15f268e0161438b4133936cb2826f7fd50"/>
-  <project name="platform/external/libvpx" path="external/libvpx" revision="8aa17fc40a750935d80b115d89ca9403f42ab211"/>
+  <project name="platform/external/libvpx" path="external/libvpx" revision="acb586e0536bb0ffc5b3f41dcdedf77fed3f02c5"/>
   <project name="platform/external/libxml2" path="external/libxml2" revision="f2da8ef9b4e7243c19e295fed847fa897e8230d3"/>
   <project name="platform/external/libxslt" path="external/libxslt" revision="d9120218522dc5da663e78996d0f042c0a62bc5e"/>
   <project name="platform/external/llvm" path="external/llvm" revision="a95f589c757c8c857096a07e0d376ca9aaec6c2c"/>
@@ -82,7 +82,7 @@
   <project name="platform/external/netcat" path="external/netcat" revision="fc2dc55c510657073ef4235658167a878e82cefa"/> 
   <project name="platform/external/netperf" path="external/netperf" revision="58ecd3b7c76263900e38921360e334a416aec362"/>
   <project name="platform/external/neven" path="external/neven" revision="7164d6ac08ab9fc1247aa29f1dafd0ef7808f0f2"/>
-  <project name="platform/external/nist-sip" path="external/nist-sip" revision="9c0e76beae15ce3ef27507b6b32a75ab78c6b836"/>
+  <project name="froyocomb-platform_external_nist-sip" remote="github" path="external/nist-sip" revision="honeycomb-release_HRG61_fix"/>
   <project name="platform/external/oauth" path="external/oauth" revision="c76276a1d6165cfb502b06f65b1735fef0754d26"/>
   <project name="platform/external/opencore" path="external/opencore" revision="61bf9af643abf0011dcf82ae8a436aeb7e8aae97"/>
   <project name="platform/external/openssl" path="external/openssl" revision="61e163095984f3e67249aecf9d2027c304e793e4"/>
