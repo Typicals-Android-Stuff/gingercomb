@@ -94,7 +94,7 @@
   <project name="platform/external/qemu" path="external/qemu" revision="db04eec3cde8407f7c9010c3d2197f83b0da0e82"/>
   <project name="platform/external/quake" path="external/quake" revision="14c49699bbca14a6a92d8a9428af1df06b3f1916"/>
   <project name="platform/external/safe-iop" path="external/safe-iop" revision="07073634e2e3aa4f518e36ed5dec3aabc549d5fb"/>
-  <project name="platform/external/skia" path="external/skia" revision="3ce77e4d13372be9fbf2601498be05b8cbd4e237"/>
+  <project name="platform/external/skia" path="external/skia" revision="60bc5886923d64c50292cbc51499aecc5468489a"/>
   <project name="platform/external/sonivox" path="external/sonivox" revision="f1298246581874025998ec434477ae90d4d39181"/>
   <project name="platform/external/speex" path="external/speex" revision="32e4d0aa78c5879565cbcd06415fa2e344036ab5"/>
   <project name="platform/external/sqlite" path="external/sqlite" revision="5b048aea8927cc0747debab2c0c5b618d9871985"/>
