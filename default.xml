@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <remote  name="aosp"
-           fetch="https://android.googlesource.com" />
+  <remote name="aosp"
+          fetch="https://android.googlesource.com"
+          revision="refs/tags/android-4.0.1_r1" />
   
   <remote name="github"
-          fetch="https://github.com/" />
+          fetch="https://github.com/froyocomb" />
   
-  <default revision="master"
-           remote="aosp"
+  <default remote="aosp"
            sync-j="4" />
   
   <project name="device/common" revision="d468cbeb023507ce9c0e01e688038b9c56c403e7"/>
