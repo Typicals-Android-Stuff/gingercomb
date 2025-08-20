@@ -1,35 +1,44 @@
 froyocomb: Honeycomb Restoration Project 
-===========
 
-This repository contains manifests for AOSP tool `repo`, that download source code of Android 3.0 ("Honeycomb") builds (including pre-release and final releases, which are hardly available in form of source code). 
+This repository contains manifests for AOSP tool `repo`, that download source code of Android 3.0 ("Honeycomb") builds (including pre-release and final releases, which are hard to obtain in form of source code). 
 
-Following builds were reconstructed:
+Following pre-release builds were reconstructed:
 
-| Build number                             | Status           |
-| :---:                                    |   :---:          |
-| [`HRF72`] (June 13, 2010)                | Work in progress |
-| [`HRF91`] (June 30, 2010)                | Done             |
-| [`HRG15`] (July 15, 2010)                | Done             |
-| [`HRG30`] (July 30, 2010)                | Done             |
-| [`HRG44B`] (August 13, 2010)             | Done             |
-| [`HRG61`] (August 30, 2010)              | Done             |
-| [`HRG85C`] (September 27th, 2010)        | Done             |
-| [`HRH27`] (October 27th, 2010)           | Done             |
-| [`HRH54C`] (November 24th, 2010)         | Done             |
-| [`HRH83D`] (December 27th, 2010)         | Done             |
-| [`HRI39`] (Android 3.0 r1)               | Done             |
+| [`HRF72`] (13 June 2010)                 | Done             |
+| [`HRF91`] (30 June 2010)                 | Done             |
+| [`HRG15`] (15 July 2010)                 | Done             |
+| [`HRG30`] (30 July 2010)                 | Done             |
+| [`HRG44B`] (13 August 2010)              | Done             |
+| [`HRG61`] (30 August 2010)               | Done             |
+| [`HRG71C`] (13 September 2010)           | Work in progress |
+| [`HRG85C`] (27 September 2010)           | Done             |
+| [`HRH27`] (27 October 2010)              | Done             |
+| [`HRH54C`] (24 November 2010)            | Done             |
+| [`HRH83D`] (27 December 2010)            | Done             |
+| [`HRI34C`] (3 February 2011)             | Work in progress |
 
-[`HRF72`]:  https://github.com/Typicals-Android-Stuff/froyocomb/tree/HRF72
-[`HRF91`]:  https://github.com/Typicals-Android-Stuff/froyocomb/tree/HRF91
-[`HRG15`]:  https://github.com/Typicals-Android-Stuff/froyocomb/tree/HRG15
-[`HRG30`]:  https://github.com/Typicals-Android-Stuff/froyocomb/tree/HRG30
-[`HRG44B`]: https://github.com/Typicals-Android-Stuff/froyocomb/tree/HRG44B
-[`HRG61`]:  https://github.com/Typicals-Android-Stuff/froyocomb/tree/HRG61
-[`HRG85C`]: https://github.com/Typicals-Android-Stuff/froyocomb/tree/HRG85C
-[`HRH27`]:  https://github.com/Typicals-Android-Stuff/froyocomb/tree/HRH27
-[`HRH54C`]: https://github.com/Typicals-Android-Stuff/froyocomb/tree/HRH54C
-[`HRH83D`]: https://github.com/Typicals-Android-Stuff/froyocomb/tree/HRH83D
-[`HRI39`]:  https://github.com/Typicals-Android-Stuff/froyocomb/tree/android-3.0_r1
+Following release builds were reconstructed:
+
+| Build number                              | Status           |
+| :---:                                     |   :---:          |
+| [`android-3.0_r1`] (8 February 2011)      | Done             |
+| [`android-3.0_r1.1`] (10 March 2011)      | Work in progress |
+
+[`HRF72`]:  https://github.com/froyocomb/froyocomb/tree/HRF72
+[`HRF91`]:  https://github.com/froyocomb/froyocomb/tree/HRF91
+[`HRG15`]:  https://github.com/froyocomb/froyocomb/tree/HRG15
+[`HRG30`]:  https://github.com/froyocomb/froyocomb/tree/HRG30
+[`HRG44B`]: https://github.com/froyocomb/froyocomb/tree/HRG44B
+[`HRG61`]:  https://github.com/froyocomb/froyocomb/tree/HRG61
+[`HRG71C`]: https://github.com/froyocomb/froyocomb/tree/HRG71C
+[`HRG85C`]: https://github.com/froyocomb/froyocomb/tree/HRG85C
+[`HRH27`]:  https://github.com/froyocomb/froyocomb/tree/HRH27
+[`HRH54C`]: https://github.com/froyocomb/froyocomb/tree/HRH54C
+[`HRH83D`]: https://github.com/froyocomb/froyocomb/tree/HRH83D
+[`HRI34C`]: https://github.com/froyocomb/froyocomb/tree/HRI34C
+[`android-3.0_r1`]:  https://github.com/froyocomb/froyocomb/tree/android-3.0_r1
+[`android-3.0_r1.1`]:  https://github.com/froyocomb/froyocomb/tree/android-3.0_r1.1
+
 
 Preparing a Build Environment
 -----------------
@@ -51,7 +60,7 @@ To get started with downloading the source code, it is needed to get familiar wi
 
 To initialize a repository tree using one of the manifests provided by this project, execute a command like this (see the table above for available branches):
 
-    repo init -u https://github.com/Typicals-Android-Stuff/froyocomb.git <branch>
+    repo init -u https://github.com/froyocomb/froyocomb.git <branch>
 
 Then to download the respective code, execute:
 
