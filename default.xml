@@ -6,7 +6,7 @@
           revision="refs/tags/android-4.0.1_r1" />
   
   <remote name="github"
-          fetch="https://github.com" />
+          fetch="https://github.com/froyocomb" />
   
   <default remote="aosp"
            sync-j="4" />
@@ -20,7 +20,7 @@
   <project name="platform/build" path="build" revision="4d425c4d79e117bd167f462fe3bbb48331c3986d">
     <copyfile dest="Makefile" src="core/root.mk"/>
   </project>
-  <project name="lwys-trash-oct23/honeybread-android_cts" path="cts" remote="github" revision="honeybread-10sep27"/>
+  <project name="froyocomb-platform_cts" path="cts" remote="github" revision="honeycomb-release_HRG85C_fix"/>
   <project name="platform/dalvik" path="dalvik" revision="b703ba2fbbf626a087903b5ee890989d18fd0c2b"/>
   <project name="platform/development" path="development" revision="2ffaf68b6b19da23258a0bed9eaeba0b1660e50e"/>
   <project name="platform/external/apache-http" path="external/apache-http" revision="e9a3cc7842f13b5e2b941bafc6bb3d0e9aa4c819"/>
