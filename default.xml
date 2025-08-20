@@ -172,8 +172,8 @@
   <project name="platform/prebuilt" path="prebuilt" revision="ee540341c6d798b095223bb2894651ced8a49bb3"/>
   <project name="platform/sdk" path="sdk" revision="f264a2feef17240bc321b4465813a9d83174cfde"/>
   <project name="platform/system/bluetooth" path="system/bluetooth" revision="30a738e653aa2d9f7670d0b19409ce30916cc397"/>
-  <!-- [HRF72] test if system is bootable -->
-  <project name="platform/system/core" path="system/core" revision="4ea085064236fc23ff7f8398345b0fa45646ade7"/>
+  <!-- [HRF72] 4ec97f2b257f5c9ed7cf6f0245212f4e3eb60c1b breaks boot -->
+  <project name="platform/system/core" path="system/core" revision="e15af09876c5e0301084f46b8036aed147cf9c24"/>
   <project name="platform/system/extras" path="system/extras" revision="545e6ca13f744650e4a62630f1b901c0840dcd43"/>
   <project name="platform/system/media" path="system/media" revision="aebee5083e2ee7d151e0e450fd59dc070cc720b9"/>
   <project name="platform/system/netd" path="system/netd" revision="a783390cc37cc8321fe695ba95ffaa5b6a2ed05b"/>
