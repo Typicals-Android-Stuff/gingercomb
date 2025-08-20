@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <remote  name="aosp"
-           fetch="https://android.googlesource.com" />
+  <remote name="aosp"
+          fetch="https://android.googlesource.com"
+          revision="refs/tags/android-4.0.1_r1" />
   
   <remote name="github"
-          fetch="https://github.com/" />
+          fetch="https://github.com/froyocomb" />
   
-  <default revision="master"
-           remote="aosp"
+  <default remote="aosp"
            sync-j="4" />
   
   <project name="device/common" revision="923fa910b497abcd1685875b9dea66118fd85590"/>
@@ -82,7 +82,7 @@
   <project name="platform/external/netcat" path="external/netcat" revision="fc2dc55c510657073ef4235658167a878e82cefa"/>
   <project name="platform/external/netperf" path="external/netperf" revision="58ecd3b7c76263900e38921360e334a416aec362"/>
   <project name="platform/external/neven" path="external/neven" revision="7164d6ac08ab9fc1247aa29f1dafd0ef7808f0f2"/>
-  <project name="Typicals-Android-Stuff/froyocomb-platform_external_nist-sip" remote="github" path="external/nist-sip" revision="honeycomb-release_HRG61_fix"/>
+  <project name="froyocomb-platform_external_nist-sip" remote="github" path="external/nist-sip" revision="honeycomb-release_HRG61_fix"/>
   <project name="platform/external/oauth" path="external/oauth" revision="c76276a1d6165cfb502b06f65b1735fef0754d26"/>
   <project name="platform/external/opencore" path="external/opencore" revision="96f6f2bfc1797ff684916dc9b57c7c03d99f49b1"/>
   <project name="platform/external/openssl" path="external/openssl" revision="16893bfbf2ae888cdd125e98ea2bfb7e26e4c48c"/>
