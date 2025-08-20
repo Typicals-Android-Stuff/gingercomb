@@ -7,7 +7,7 @@ Following builds were reconstructed:
 
 | Build number                             | Status           |
 | :---:                                    |   :---:          |
-| [`HRF72`] (June 13, 2010)                | Work in progress |
+| [`HRF72`] (June 13, 2010)                | Done             |
 | [`HRF91`] (June 30, 2010)                | Done             |
 | [`HRG15`] (July 15, 2010)                | Done             |
 | [`HRG30`] (July 30, 2010)                | Done             |
