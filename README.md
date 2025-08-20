@@ -1,9 +1,12 @@
 froyocomb: Honeycomb Restoration Project 
+===========
 
 This repository contains manifests for AOSP tool `repo`, that download source code of Android 3.0 ("Honeycomb") builds (including pre-release and final releases, which are hard to obtain in form of source code). 
 
 Following pre-release builds were reconstructed:
 
+| Build number                              | Status           |
+| :---:                                     |   :---:          |
 | [`HRF72`] (13 June 2010)                 | Done             |
 | [`HRF91`] (30 June 2010)                 | Done             |
 | [`HRG15`] (15 July 2010)                 | Done             |
