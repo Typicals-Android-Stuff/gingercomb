@@ -172,7 +172,7 @@
   <project name="platform/prebuilt" path="prebuilt" revision="ee540341c6d798b095223bb2894651ced8a49bb3"/>
   <project name="platform/sdk" path="sdk" revision="f264a2feef17240bc321b4465813a9d83174cfde"/>
   <project name="platform/system/bluetooth" path="system/bluetooth" revision="30a738e653aa2d9f7670d0b19409ce30916cc397"/>
-  <!-- [HRF72] 7ad012bde5fe312ddc8ecfb515e16aebd39386d4 includes 7ad012bde5fe312ddc8ecfb515e16aebd39386d4 which breaks boot -->
+  <!-- [HRF72] 7ad012bde5fe312ddc8ecfb515e16aebd39386d4 includes 4ec97f2b257f5c9ed7cf6f0245212f4e3eb60c1b which breaks boot -->
   <project name="platform/system/core" path="system/core" revision="e15af09876c5e0301084f46b8036aed147cf9c24"/>
   <project name="platform/system/extras" path="system/extras" revision="545e6ca13f744650e4a62630f1b901c0840dcd43"/>
   <project name="platform/system/media" path="system/media" revision="aebee5083e2ee7d151e0e450fd59dc070cc720b9"/>
