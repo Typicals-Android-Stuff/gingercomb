@@ -13,19 +13,19 @@ Following pre-release builds were reconstructed:
 | [`HRG30`] (30 July 2010)                 | Done             |
 | [`HRG44B`] (13 August 2010)              | Done             |
 | [`HRG61`] (30 August 2010)               | Done             |
-| [`HRG71C`] (13 September 2010)           | Work in progress |
+| [`HRG71C`] (13 September 2010)           | Done             |
 | [`HRG85C`] (27 September 2010)           | Done             |
 | [`HRH27`] (27 October 2010)              | Done             |
 | [`HRH54C`] (24 November 2010)            | Done             |
 | [`HRH83D`] (27 December 2010)            | Done             |
-| [`HRI34C`] (3 February 2011)             | Work in progress |
+| [`HRI34C`] (3 February 2011)             | Done             |
 
 Following release builds were reconstructed:
 
 | Build number                              | Status           |
 | :---:                                     |   :---:          |
 | [`android-3.0_r1`] (8 February 2011)      | Done             |
-| [`android-3.0_r1.1`] (10 March 2011)      | Work in progress |
+| [`android-3.0_r1.1`] (10 March 2011)      | Abandoned        |
 
 [`HRF72`]:  https://github.com/froyocomb/froyocomb/tree/HRF72
 [`HRF91`]:  https://github.com/froyocomb/froyocomb/tree/HRF91
@@ -94,6 +94,15 @@ Usage
 To use the compiled build, run them in a emulator. To specify the resolution, use the `-skin` option.
 
     emulator -skin 1280x800
+
+Useful Links
+------------
+
+* GitHub search filter for non-SVN (i.e. Android) commits from the LineageOS LLVM & Clang mirrors, ordered by commit date
+  * [LLVM](https://github.com/search?q=repo%3ALineageOS%2Fandroid_external_llvm+NOT+%22git-svn-id%3A%22&type=commits&s=committer-date&o=asc)
+  * [Clang](https://github.com/search?q=repo%3ALineageOS%2Fandroid_external_clang+NOT+%22git-svn-id%3A%22&type=commits&s=committer-date&o=asc)
+* [Froyocomb Helper](https://gist.github.com/Dobby233Liu/c55c1e9c816facd153eeb19e386f53fd): userscript to assist finding commits before a certain time (cannot replace human labor)
+
 
 
 
