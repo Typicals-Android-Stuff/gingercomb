@@ -173,7 +173,7 @@
   <project name="platform/packages/providers/GoogleContactsProvider" path="packages/providers/GoogleContactsProvider" revision="4886c7a0cfba5df74b213b1fc8286c6e3f2ddaa2"/>
   <project name="platform/packages/providers/MediaProvider" path="packages/providers/MediaProvider" revision="8deb285bb78dfbd54cf5173f2efda88ced527248"/>
   <project name="platform/packages/providers/TelephonyProvider" path="packages/providers/TelephonyProvider" revision="9dd054fb2a64da44b7a6830eac3de86d027d9035"/>
-  <project name="platform/packages/providers/UserDictionaryProvider" path="packages/providers/UserDictionaryProvider" revision="d7eb9d4b59640175877a6f53f32b6e3e3d7154e9"/>
+  <project name="platform/packages/providers/UserDictionaryProvider" path="packages/providers/UserDictionaryProvider" revision="dcb7a354832c50861ffa866d4d4a2c9b33eea746"/>
   <project name="platform/packages/wallpapers/Basic" path="packages/wallpapers/Basic" revision="71ec723536899a5aa5f2ac207b04af4818b31ace"/>
   <project name="platform/packages/wallpapers/LivePicker" path="packages/wallpapers/LivePicker" revision="c542ce280862cdc1e2161c1c50a916d55066a6c8"/>
   <project name="platform/packages/wallpapers/MagicSmoke" path="packages/wallpapers/MagicSmoke" revision="e67de792348028964f9bfbcd168e7b3945d31d67"/>
