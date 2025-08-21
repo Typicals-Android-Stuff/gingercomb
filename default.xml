@@ -116,7 +116,7 @@
   <project name="platform/frameworks/base" path="frameworks/base" revision="c7b29fbb3ea4601e8bfcf8d2ce13c3fbb390de82"/>
   <project name="platform/frameworks/ex" path="frameworks/ex" revision="d380848706642b7d3bf9b33f012f5e6035645a59"/>
   <project name="platform/frameworks/compile/libbcc" path="frameworks/compile/libbcc" revision="16016016c14b088561ef92e9181d7102b967296d"/>
-  <project name="platform/frameworks/compile/slang" path="frameworks/compile/slang" revision="f52a620440fa62257dfdcf2583f0f9df5b855c76"/>
+  <project name="platform/frameworks/compile/slang" path="frameworks/compile/slang" revision="83fbfba1257bf334bbf00a37e4d2214634f45e4b"/>
   <project name="platform/frameworks/opt/emoji" path="frameworks/opt/emoji" revision="49f8fa5f480ae382f9087fde333b50072b214ad2"/>
   <project name="platform/frameworks/opt/vcard" path="frameworks/opt/vcard" revision="465aa5d5706ba56c74c1249a17a6df80b0f42972"/>
   <project name="platform/hardware/broadcom/wlan" path="hardware/broadcom/wlan" revision="0aadf5b7aad75775971895533ddac4d6b452c66b"/>
