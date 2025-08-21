@@ -34,7 +34,7 @@
   <project name="platform/external/bsdiff" path="external/bsdiff" revision="df980d633fd0bdc0b89af26630f543d91bb87e68"/>
   <project name="platform/external/bzip2" path="external/bzip2" revision="e7bb50078e4a09f3d9b593d34bbff6e031bc1c1a"/>
   <project name="platform/external/chromium" path="external/chromium" revision="d90229595b741bfdb2f8cd50a7eeba55330abf78"/>
-  <project name="platform/external/clang" path="external/clang" revision="726dc5a18bbe6cb8b2cca9db9ece0a3f99e308b5"/>
+  <project name="platform/external/clang" path="external/clang" revision="3049ec9961d1a1f0570a24dc601e6a362129b35d"/>
   <project name="platform/external/dbus" path="external/dbus" revision="ade5c7ad33484a8b8f7c11591d4e80a83e7ff369"/>
   <project name="platform/external/dhcpcd" path="external/dhcpcd" revision="b6ba7fb6ce416e8b9a6bd33130de26d9de8b857b"/>
   <project name="platform/external/dnsmasq" path="external/dnsmasq" revision="1b25960ebe33754410ba3c663c1c45662c779381"/>
@@ -77,7 +77,7 @@
   <project name="platform/external/libvpx" path="external/libvpx" revision="8aa17fc40a750935d80b115d89ca9403f42ab211"/>
   <project name="platform/external/libxml2" path="external/libxml2" revision="f2da8ef9b4e7243c19e295fed847fa897e8230d3"/>
   <project name="platform/external/libxslt" path="external/libxslt" revision="d9120218522dc5da663e78996d0f042c0a62bc5e"/>
-  <project name="platform/external/llvm" path="external/llvm" revision="2ec9d0c827545a92087078b8b8df1b6afa12f9b1"/>
+  <project name="platform/external/llvm" path="external/llvm" revision="a95f589c757c8c857096a07e0d376ca9aaec6c2c"/>
   <project name="platform/external/mtpd" path="external/mtpd" revision="fccbc17685cd8bd43cf1c1e533c4d02f6f79d667"/>
   <project name="platform/external/netcat" path="external/netcat" revision="fc2dc55c510657073ef4235658167a878e82cefa"/> 
   <project name="platform/external/netperf" path="external/netperf" revision="58ecd3b7c76263900e38921360e334a416aec362"/>
@@ -116,7 +116,7 @@
   <project name="platform/frameworks/base" path="frameworks/base" revision="c7b29fbb3ea4601e8bfcf8d2ce13c3fbb390de82"/>
   <project name="platform/frameworks/ex" path="frameworks/ex" revision="d380848706642b7d3bf9b33f012f5e6035645a59"/>
   <project name="platform/frameworks/compile/libbcc" path="frameworks/compile/libbcc" revision="16016016c14b088561ef92e9181d7102b967296d"/>
-  <project name="platform/frameworks/compile/slang" path="frameworks/compile/slang" revision="83fbfba1257bf334bbf00a37e4d2214634f45e4b"/>
+  <project name="platform/frameworks/compile/slang" path="frameworks/compile/slang" revision="f52a620440fa62257dfdcf2583f0f9df5b855c76"/>
   <project name="platform/frameworks/opt/emoji" path="frameworks/opt/emoji" revision="49f8fa5f480ae382f9087fde333b50072b214ad2"/>
   <project name="platform/frameworks/opt/vcard" path="frameworks/opt/vcard" revision="465aa5d5706ba56c74c1249a17a6df80b0f42972"/>
   <project name="platform/hardware/broadcom/wlan" path="hardware/broadcom/wlan" revision="0aadf5b7aad75775971895533ddac4d6b452c66b"/>
@@ -143,7 +143,7 @@
   <project name="platform/packages/apps/Gallery" path="packages/apps/Gallery" revision="44ff7fdb13381fe037c94a669564da513f03eed1"/>
   <project name="platform/packages/apps/Gallery3D" path="packages/apps/Gallery3D" revision="1a4b5d7466e5c9ce1922b5eb0df0e8a7bf142beb"/>
   <project name="platform/packages/apps/HTMLViewer" path="packages/apps/HTMLViewer" revision="72f5ed089f6abd04d70429b8920b7f21d814f155"/>
-  <project name="platform/packages/apps/Launcher2" path="packages/apps/Launcher2" revision="5f1c509d5ad1954a7e38e77db4d5f27c7345fd39"/>
+  <project name="platform/packages/apps/Launcher2" path="packages/apps/Launcher2" revision="bf4ad7cbbcb92dc64e57664cacc01f1eebf0e3b6"/>
   <project name="platform/packages/apps/Mms" path="packages/apps/Mms" revision="61bb6e23aeeea4ccad1c772b61bc50b740da5635"/>
   <project name="platform/packages/apps/Music" path="packages/apps/Music" revision="0875026c48c2b3ec64a2f9c9e9dab9a9b5d9061a"/>
   <project name="platform/packages/apps/PackageInstaller" path="packages/apps/PackageInstaller" revision="8441898f2a974aa8eb5b85de6ec6e5c764f1ea3b"/>
