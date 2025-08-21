@@ -143,7 +143,7 @@
   <project name="platform/packages/apps/Gallery" path="packages/apps/Gallery" revision="44ff7fdb13381fe037c94a669564da513f03eed1"/>
   <project name="platform/packages/apps/Gallery3D" path="packages/apps/Gallery3D" revision="1a4b5d7466e5c9ce1922b5eb0df0e8a7bf142beb"/>
   <project name="platform/packages/apps/HTMLViewer" path="packages/apps/HTMLViewer" revision="72f5ed089f6abd04d70429b8920b7f21d814f155"/>
-  <project name="platform/packages/apps/Launcher2" path="packages/apps/Launcher2" revision="43fc5cda05b180470e73400ac77cb71f4c0ee158"/>
+  <project name="platform/packages/apps/Launcher2" path="packages/apps/Launcher2" revision="9d927315f0ee72bfa556868321be662c8b8ef012"/>
   <project name="platform/packages/apps/Mms" path="packages/apps/Mms" revision="61bb6e23aeeea4ccad1c772b61bc50b740da5635"/>
   <project name="platform/packages/apps/Music" path="packages/apps/Music" revision="0875026c48c2b3ec64a2f9c9e9dab9a9b5d9061a"/>
   <project name="platform/packages/apps/PackageInstaller" path="packages/apps/PackageInstaller" revision="8441898f2a974aa8eb5b85de6ec6e5c764f1ea3b"/>
