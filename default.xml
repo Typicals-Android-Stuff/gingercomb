@@ -34,7 +34,7 @@
   <project name="platform/external/bsdiff" path="external/bsdiff" revision="df980d633fd0bdc0b89af26630f543d91bb87e68"/>
   <project name="platform/external/bzip2" path="external/bzip2" revision="e7bb50078e4a09f3d9b593d34bbff6e031bc1c1a"/>
   <project name="platform/external/chromium" path="external/chromium" revision="d90229595b741bfdb2f8cd50a7eeba55330abf78"/>
-  <project name="platform/external/clang" path="external/clang" revision="a3a962bf01352483f73b474a4f2e1bbf76904400"/>
+  <project name="platform/external/clang" path="external/clang" revision="ed72ddd635c68363f079f16fd58d01e61b7c9c41"/>
   <project name="platform/external/dbus" path="external/dbus" revision="ade5c7ad33484a8b8f7c11591d4e80a83e7ff369"/>
   <project name="platform/external/dhcpcd" path="external/dhcpcd" revision="b6ba7fb6ce416e8b9a6bd33130de26d9de8b857b"/>
   <project name="platform/external/dnsmasq" path="external/dnsmasq" revision="1b25960ebe33754410ba3c663c1c45662c779381"/>
@@ -77,7 +77,7 @@
   <project name="platform/external/libvpx" path="external/libvpx" revision="8aa17fc40a750935d80b115d89ca9403f42ab211"/>
   <project name="platform/external/libxml2" path="external/libxml2" revision="f2da8ef9b4e7243c19e295fed847fa897e8230d3"/>
   <project name="platform/external/libxslt" path="external/libxslt" revision="d9120218522dc5da663e78996d0f042c0a62bc5e"/>
-  <project name="platform/external/llvm" path="external/llvm" revision="a95f589c757c8c857096a07e0d376ca9aaec6c2c"/>
+  <project name="platform/external/llvm" path="external/llvm" revision="5fa2b3adc47004be7f502475d2b98e9b41228f14"/>
   <project name="platform/external/mtpd" path="external/mtpd" revision="fccbc17685cd8bd43cf1c1e533c4d02f6f79d667"/>
   <project name="platform/external/netcat" path="external/netcat" revision="fc2dc55c510657073ef4235658167a878e82cefa"/> 
   <project name="platform/external/netperf" path="external/netperf" revision="58ecd3b7c76263900e38921360e334a416aec362"/>
@@ -115,8 +115,8 @@
   <project name="platform/external/zlib" path="external/zlib" revision="b5611c4ac00b35b72c298f5ecdaa154167c6dd6d"/>
   <project name="platform/frameworks/base" path="frameworks/base" revision="c7b29fbb3ea4601e8bfcf8d2ce13c3fbb390de82"/>
   <project name="platform/frameworks/ex" path="frameworks/ex" revision="d380848706642b7d3bf9b33f012f5e6035645a59"/>
-  <project name="platform/frameworks/compile/libbcc" path="frameworks/compile/libbcc" revision="16016016c14b088561ef92e9181d7102b967296d"/>
-  <project name="platform/frameworks/compile/slang" path="frameworks/compile/slang" revision="f52a620440fa62257dfdcf2583f0f9df5b855c76"/>
+  <project name="platform/frameworks/compile/libbcc" path="frameworks/compile/libbcc" revision="2c06c3ef2b23e48dcdf527c823e1debf7bc52596"/>
+  <project name="platform/frameworks/compile/slang" path="frameworks/compile/slang" revision="0877f0557e5c406fc8ff33c928a8ae969a5f4905"/>
   <project name="platform/frameworks/opt/emoji" path="frameworks/opt/emoji" revision="49f8fa5f480ae382f9087fde333b50072b214ad2"/>
   <project name="platform/frameworks/opt/vcard" path="frameworks/opt/vcard" revision="465aa5d5706ba56c74c1249a17a6df80b0f42972"/>
   <project name="platform/hardware/broadcom/wlan" path="hardware/broadcom/wlan" revision="0aadf5b7aad75775971895533ddac4d6b452c66b"/>
