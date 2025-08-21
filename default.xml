@@ -34,6 +34,7 @@
   <project name="platform/external/bouncycastle" path="external/bouncycastle" revision="253ce5e6c172a18248469ffc62748a31c64e825c"/>
   <project name="platform/external/bsdiff" path="external/bsdiff" revision="df980d633fd0bdc0b89af26630f543d91bb87e68"/>
   <project name="platform/external/bzip2" path="external/bzip2" revision="9ac1ec23f7a9ad61bec16960ec33635f78097441"/>
+  <project name="platform/external/collada" path="external/collada" revision="964b2eedc19ffee2feb43c598aae9b0ce525b65d"/>
   <project name="platform/external/chromium" path="external/chromium" revision="236a78ec3c86b3dddf6e0727d9b2e3448a5715bf"/>
   <project name="platform/external/clang" path="external/clang" revision="88134fd256c82a178c3ce13a686d0e0898448e0d"/>
   <project name="platform/external/dbus" path="external/dbus" revision="b887506868d6abc1e9caee9af37a8b4b62b967fb"/>
@@ -90,6 +91,7 @@
   <project name="platform/external/oauth" path="external/oauth" revision="bc170f58de82000ed6460f111686a850a1890c07"/>
   <project name="platform/external/openssl" path="external/openssl" revision="55f0e2c599995f5f5bc4cbbfb74d7b5f3a1f83f4"/>
   <project name="platform/external/oprofile" path="external/oprofile" revision="8cfa702f803c5ef6a2b062a489a1b2cf66b45b5e"/>
+  <project name="platform/external/pcre" path="external/pcre" revision="b223ba9e38990af0b4cbf5b104ef2a00bec33c2b"/>
   <project name="platform/external/ping" path="external/ping" revision="2b77a5377db63d95d777a7d5aa14380dd0e71e72"/>
   <project name="platform/external/ppp" path="external/ppp" revision="43a588f9a7e28c06b780a6813c55cf30482b4fbe"/>
   <project name="platform/external/proguard" path="external/proguard" revision="ab470e0d486f7bfe056971e0b099e6b8cdc7c25e"/>
@@ -119,6 +121,7 @@
   <project name="platform/external/zlib" path="external/zlib" revision="96c70b1df1629d7f0eb8f666045bfd5eb062cebf"/>
   <project name="platform/frameworks/base" path="frameworks/base" revision="6b421e76e9ee5c22cf2a785392b33a5024ee0051"/>
   <project name="platform/frameworks/ex" path="frameworks/ex" revision="8debeb8a0a785f0ad66bc75200cdb47c137602bc"/> 
+  <project name="platform/frameworks/support" path="frameworks/support" revision="614bd22138e6c13f9f3f3d2e85d13623f1c088dd"/>
   <project name="platform/frameworks/compile/libbcc" path="frameworks/compile/libbcc" revision="2638e4c3c82c1e0fa7e3b56851b2f3228e1dc7a2"/>
   <project name="platform/frameworks/compile/slang" path="frameworks/compile/slang" revision="832429f6bf4592cfc2ce58f2462f1e8ecdbaaf52"/>
   <project name="platform/frameworks/media/libvideoeditor" path="frameworks/media/libvideoeditor" revision="2d2b48f45a449836c13768b6f06da556d3021b26"/>
@@ -135,7 +138,7 @@
   <project name="platform/hardware/ti/wlan" path="hardware/ti/wlan" revision="bd8a0f92c534e9a32a2379a0462584277462f2f6"/>
   <project name="platform/libcore" path="libcore" revision="504826511d908b4ad56ed3dc3df09d471390f103"/>
   <project name="platform/ndk" path="ndk" revision="2d3f9177e88c9bb8f292c7bfc01b5ea1f042a29c"/>
-  <project name="platform/packages/apps/Bluetooth" path="packages/apps/Bluetooth" revision="9c67a8b5275e5b5754f02d43b57ed35314c9f5fb"/>
+  <project name="platform/packages/apps/Bluetooth" path="packages/apps/Bluetooth" revision="23b8f8c57a7cb820c6dd9a8ed6a78cd2a3c625ae"/>
   <project name="platform/packages/apps/Browser" path="packages/apps/Browser" revision="3ef1906465a9320b8c1bc57f948f64f315ff79b4"/>
   <project name="platform/packages/apps/Calculator" path="packages/apps/Calculator" revision="eb14ebd9b3e854536ceeec8e3b046bf02c5d4721"/>
   <project name="platform/packages/apps/Calendar" path="packages/apps/Calendar" revision="236fecfe1f743a88c77099e1f233e3ba08b72520"/>
