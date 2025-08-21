@@ -13,12 +13,15 @@ Following pre-release builds were reconstructed:
 | [`HRG30`] (30 July 2010)                 | Done             |
 | [`HRG44B`] (13 August 2010)              | Done             |
 | [`HRG61`] (30 August 2010)               | Done             |
-| [`HRG71C`] (13 September 2010)           | Work in progress |
+| [`HRG71C`] (13 September 2010)           | Done             |
 | [`HRG85C`] (27 September 2010)           | Done             |
 | [`HRH27`] (27 October 2010)              | Done             |
 | [`HRH54C`] (24 November 2010)            | Done             |
 | [`HRH83D`] (27 December 2010)            | Done             |
-| [`HRI34C`] (3 February 2011)             | Work in progress |
+
+Work on the following build has been scrapped due to a change in focus:
+
+* ~~[`HRI34C`] (3 February 2011)~~
 
 Following release builds were reconstructed:
 
