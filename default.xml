@@ -110,8 +110,8 @@
   <project name="platform/external/tcpdump" path="external/tcpdump" revision="532b8f38c144da9a298260a5d8978ab9e8e3856c"/>
   <project name="platform/external/tinyxml" path="external/tinyxml" revision="d589f7e4a51e75bd5c98a3defd8ee84d7059e86e"/>
   <project name="platform/external/tremolo" path="external/tremolo" revision="ef03ae17fcbd7474f839cc2fee27a58369cf41dd"/>
-  <project name="platform/external/v8" path="external/v8" revision="a05c99b4227a01c34c5645e44bbc8c07105e1f94"/>
-  <project name="platform/external/webkit" path="external/webkit" revision="ecbe60924524559a94dcd75b72379e2bedd7c8f6"/>
+  <project name="platform/external/v8" path="external/v8" revision="81362e16c30e9e970af6b17592f627ad8cdee4d8"/>
+  <project name="platform/external/webkit" path="external/webkit" revision="56463a52c19062aae422f8b66ab866ec36d7712d"/>
   <project name="platform/external/webp" path="external/webp" revision="9aea642eefa7a641ab8b89d953251939221d2719"/>
   <project name="platform/external/wpa_supplicant" path="external/wpa_supplicant" revision="92202cf7a2e615b65e892aa8f633b469ddcb522e"/>
   <project name="platform/external/wpa_supplicant_6" path="external/wpa_supplicant_6" revision="a12fdfe7081a569335ae45c9c679ab144d85e3b3"/>
