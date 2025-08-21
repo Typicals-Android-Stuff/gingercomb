@@ -154,7 +154,7 @@
   <project name="platform/packages/apps/Settings" path="packages/apps/Settings" revision="2712fb5d7992c78425a4845ffb23853de30f3a2a"/>
   <project name="platform/packages/apps/SoundRecorder" path="packages/apps/SoundRecorder" revision="0d7dd8ac9e1526cdf88112d13d32810834661895"/>
   <project name="platform/packages/apps/SpeechRecorder" path="packages/apps/SpeechRecorder" revision="f075eb5cefb6357aa7562a6d156bda5383ac087d"/>
-  <project name="platform/packages/apps/Stk" path="packages/apps/Stk" revision="1f04bacb57af5ac14852cc1056f53016560cc656"/>
+  <project name="platform/packages/apps/Stk" path="packages/apps/Stk" revision="d41f1d98d7bf42e9e867819593ad79f685604796"/>
   <project name="platform/packages/apps/VoiceDialer" path="packages/apps/VoiceDialer" revision="cab73d353878c12e1f34dfe194530e8e1af2276c"/>
   <project name="platform/packages/experimental" path="packages/experimental" revision="e5c6bdad9060918bfb4f00a6d68a95f37ce08df8"/>
   <project name="platform/packages/inputmethods/LatinIME" path="packages/inputmethods/LatinIME" revision="67ffd0b0ea76489a57d70421dfa0b065f479b343"/>
