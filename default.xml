@@ -23,7 +23,6 @@
   <project name="platform/cts" path="cts" revision="583bebac76a956b965c5a0b58284febe9aa3941c"/>
   <project name="platform/dalvik" path="dalvik" revision="e6cad708e93dab280335d3f69917048c34cfc640"/>
   <project name="platform/development" path="development" revision="65485f51d0283299f769d3fd0778d711c6e3b529"/>
-
   <project name="platform/external/apache-http" path="external/apache-http" revision="4ccaefba5f96ebac5c7bb90c9b44463200afe18e"/>
   <project name="platform/external/apache-xml" path="external/apache-xml" revision="d51e4ac4a875860f724c9211608ad975da7f8ed7"/>
   <project name="platform/external/astl" path="external/astl" revision="d13073fbb2bdb9a1bca751f103725a12de7ceafa"/>
@@ -119,7 +118,6 @@
   <project name="platform/external/xmlwriter" path="external/xmlwriter" revision="e95d92246ee35273dde2bee8b00485cc14c12be5" />
   <project name="platform/external/yaffs2" path="external/yaffs2" revision="6232e2d5ab34a40d710e4b05ab0ec6e3727804e7"/>
   <project name="platform/external/zlib" path="external/zlib" revision="96c70b1df1629d7f0eb8f666045bfd5eb062cebf"/>
-
   <project name="platform/frameworks/base" path="frameworks/base" revision="5455db17ffa5b126c834d266dc94b821ddf4a4e5"/>
   <project name="platform/frameworks/ex" path="frameworks/ex" revision="641881a8167529466b94bd3b3caf3576bce256dc"/>
   <project name="platform/frameworks/compile/libbcc" path="frameworks/compile/libbcc" revision="000f261010bc11b1e245435b45a2e16bec474d92"/>
