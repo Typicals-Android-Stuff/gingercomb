@@ -147,7 +147,7 @@
   <project name="platform/packages/apps/Mms" path="packages/apps/Mms" revision="61bb6e23aeeea4ccad1c772b61bc50b740da5635"/>
   <project name="platform/packages/apps/Music" path="packages/apps/Music" revision="0875026c48c2b3ec64a2f9c9e9dab9a9b5d9061a"/>
   <project name="platform/packages/apps/PackageInstaller" path="packages/apps/PackageInstaller" revision="8441898f2a974aa8eb5b85de6ec6e5c764f1ea3b"/>
-  <project name="platform/packages/apps/Phone" path="packages/apps/Phone" revision="998050730b423a5888a561e9f8230d499515d864"/>
+  <project name="platform/packages/apps/Phone" path="packages/apps/Phone" revision="c00955e6a4e3bacdb17d5b446336dc3e8d7c2ad5"/>
   <project name="platform/packages/apps/Protips" path="packages/apps/Protips" revision="2634a79db6a0635cfdfe00c33d2d55d6a7b47003"/>
   <project name="platform/packages/apps/Provision" path="packages/apps/Provision" revision="19a24c39b8c23be1e0f4f91b2a859dd4477976a9"/>
   <project name="platform/packages/apps/QuickSearchBox" path="packages/apps/QuickSearchBox" revision="8671248f1bd43013266ca48a552a480caacd1da2"/>
