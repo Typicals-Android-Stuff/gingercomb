@@ -112,7 +112,7 @@
   <project name="platform/external/tinyxml" path="external/tinyxml" revision="d589f7e4a51e75bd5c98a3defd8ee84d7059e86e"/>
   <project name="platform/external/tremolo" path="external/tremolo" revision="ef03ae17fcbd7474f839cc2fee27a58369cf41dd"/>
   <project name="platform/external/v8" path="external/v8" revision="61032c7aa837857d889516f767b03476bd331171"/>
-  <project name="platform/external/webkit" path="external/webkit" revision="e70222ba5aafd13d88b64d27a2ea4d5dbcd7ade6"/>
+  <project name="platform/external/webkit" path="external/webkit" revision="ae9f5f699fd7ae6cac2e90a646fa4bfa1e1412ca"/>
   <project name="platform/external/webp" path="external/webp" revision="9aea642eefa7a641ab8b89d953251939221d2719"/>
   <project name="platform/external/wpa_supplicant" path="external/wpa_supplicant" revision="92202cf7a2e615b65e892aa8f633b469ddcb522e"/>
   <project name="platform/external/wpa_supplicant_6" path="external/wpa_supplicant_6" revision="5f27b7c5380b99bfeee77205dd68538e9cc400aa"/>
@@ -120,7 +120,7 @@
   <project name="platform/external/yaffs2" path="external/yaffs2" revision="6232e2d5ab34a40d710e4b05ab0ec6e3727804e7"/>
   <project name="platform/external/zlib" path="external/zlib" revision="96c70b1df1629d7f0eb8f666045bfd5eb062cebf"/>
   <project name="platform/frameworks/base" path="frameworks/base" revision="6b421e76e9ee5c22cf2a785392b33a5024ee0051"/>
-  <project name="platform/frameworks/ex" path="frameworks/ex" revision="8debeb8a0a785f0ad66bc75200cdb47c137602bc"/> 
+  <project name="platform/frameworks/ex" path="frameworks/ex" revision="b2bc02c2fcd71d6d971e772a3d9dba0d1b065223"/> 
   <project name="platform/frameworks/support" path="frameworks/support" revision="614bd22138e6c13f9f3f3d2e85d13623f1c088dd"/>
   <project name="platform/frameworks/compile/libbcc" path="frameworks/compile/libbcc" revision="2638e4c3c82c1e0fa7e3b56851b2f3228e1dc7a2"/>
   <project name="platform/frameworks/compile/slang" path="frameworks/compile/slang" revision="832429f6bf4592cfc2ce58f2462f1e8ecdbaaf52"/>
@@ -140,7 +140,7 @@
   <project name="platform/ndk" path="ndk" revision="2d3f9177e88c9bb8f292c7bfc01b5ea1f042a29c"/>
   <project name="platform/packages/apps/Bluetooth" path="packages/apps/Bluetooth" revision="23b8f8c57a7cb820c6dd9a8ed6a78cd2a3c625ae"/>
   <project name="platform/packages/apps/Browser" path="packages/apps/Browser" revision="3ef1906465a9320b8c1bc57f948f64f315ff79b4"/>
-  <project name="platform/packages/apps/Calculator" path="packages/apps/Calculator" revision="eb14ebd9b3e854536ceeec8e3b046bf02c5d4721"/>
+  <project name="platform/packages/apps/Calculator" path="packages/apps/Calculator" revision="36010145c06ed1accf3f190ca36f98ae077f54df"/>
   <project name="platform/packages/apps/Calendar" path="packages/apps/Calendar" revision="236fecfe1f743a88c77099e1f233e3ba08b72520"/>
   <project name="platform/packages/apps/Camera" path="packages/apps/Camera" revision="e25092db7ce85e4ab4a94e1ccac8660ae6134a60"/>
   <project name="platform/packages/apps/CertInstaller" path="packages/apps/CertInstaller" revision="617fd344778e60de065abc9fb1ece50680c9cc87"/>
@@ -153,8 +153,8 @@
   <project name="platform/packages/apps/Launcher2" path="packages/apps/Launcher2" revision="c1b725f836723766c942df2c7114aca507c821c9"/>
   <project name="platform/packages/apps/Mms" path="packages/apps/Mms" revision="26d3470069fc7ef3862f1aafd1ea930f30c5b9b1"/>
   <project name="platform/packages/apps/Music" path="packages/apps/Music" revision="d25955be2ee7b1e184daed8ac41a35c1a5d654a5"/>
-  <project name="platform/packages/apps/PackageInstaller" path="packages/apps/PackageInstaller" revision="8b27e94b6a2c14065b0f92a1279c09555eda73d9"/>
-  <project name="platform/packages/apps/Phone" path="packages/apps/Phone" revision="4e532d23f6e2a9fbf4816fd2cdab6ad81bbc3946"/>
+  <project name="platform/packages/apps/PackageInstaller" path="packages/apps/PackageInstaller" revision="b71315713d09b71b2e938c5344414c90d6322eab"/>
+  <project name="platform/packages/apps/Phone" path="packages/apps/Phone" revision="3740d505deb9a5ed1ac7e6facf535b791125f38c"/>
   <project name="platform/packages/apps/Protips" path="packages/apps/Protips" revision="8855adab7c80f3a4621b8d80c3d4add6ae8d6443"/>
   <project name="platform/packages/apps/Provision" path="packages/apps/Provision" revision="f31b933a8aebf07e3feb512ac650c5691c8c5e0f"/>
   <project name="platform/packages/apps/QuickSearchBox" path="packages/apps/QuickSearchBox" revision="7037a39f54d18e30526df41a4638a7b58d368a9b"/>
@@ -167,13 +167,13 @@
   <project name="platform/packages/inputmethods/LatinIME" path="packages/inputmethods/LatinIME" revision="39c323eb1236797cab6fea432a5ee55f48344a5c"/>
   <project name="platform/packages/inputmethods/OpenWnn" path="packages/inputmethods/OpenWnn" revision="27ab9d1b806f03554d2abb50de26abe7bf234336"/>
   <project name="platform/packages/inputmethods/PinyinIME" path="packages/inputmethods/PinyinIME" revision="8c8df623b7097b008856c28b874a99a231eb278a"/>
-  <project name="platform/packages/providers/ApplicationsProvider" path="packages/providers/ApplicationsProvider" revision="a4cca183bbf1d39238fe31222da30970f308d47e"/>
+  <project name="platform/packages/providers/ApplicationsProvider" path="packages/providers/ApplicationsProvider" revision="7089c89c9ec21f28326ac6a9e9e91344749a02e0"/>
   <project name="platform/packages/providers/CalendarProvider" path="packages/providers/CalendarProvider" revision="9163b04bc080b2289fcf94238e2dc742e4fd5f8f"/>
   <project name="platform/packages/providers/ContactsProvider" path="packages/providers/ContactsProvider" revision="f262d56495ac4ea30d31bd050efb116bd4bb4235"/>
   <project name="platform/packages/providers/DownloadProvider" path="packages/providers/DownloadProvider" revision="d9352428c74a544d35158fa8a4cf72b0ed8e0a9d"/>
   <project name="platform/packages/providers/DrmProvider" path="packages/providers/DrmProvider" revision="5cab0dbef3ec43cd14d041a579323d74a0ae094b"/>
   <project name="platform/packages/providers/GoogleContactsProvider" path="packages/providers/GoogleContactsProvider" revision="4886c7a0cfba5df74b213b1fc8286c6e3f2ddaa2"/>
-  <project name="platform/packages/providers/MediaProvider" path="packages/providers/MediaProvider" revision="2b1a53fe6c2e95197d0228ecd5268c91ee438f94"/>
+  <project name="platform/packages/providers/MediaProvider" path="packages/providers/MediaProvider" revision="65587f9c204abb2d179527dfdca009f4780e9743"/>
   <project name="platform/packages/providers/TelephonyProvider" path="packages/providers/TelephonyProvider" revision="9dd054fb2a64da44b7a6830eac3de86d027d9035"/>
   <project name="platform/packages/providers/UserDictionaryProvider" path="packages/providers/UserDictionaryProvider" revision="d7eb9d4b59640175877a6f53f32b6e3e3d7154e9"/>
   <project name="platform/packages/wallpapers/Basic" path="packages/wallpapers/Basic" revision="2f9544c7d1335c72c1b3d34cf58c560595dfef65"/>
