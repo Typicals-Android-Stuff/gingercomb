@@ -95,23 +95,6 @@ To use the compiled build, run them in a emulator. To specify the resolution, us
 
     emulator -skin 1280x800
 
-
-
-As appropriate device trees are not available in the source, the only targets that are possible to pick are the generic ones. 
-
-To compile Android, type:
-
-    make CC=gcc-4.4 CXX=g++-4.4
-	
-If builds older than HRG85C are compiled, it is required to add additional parameter `BUILD_WITHOUT_PV=true` to the build command.
-
-Usage
------
-
-To use the compiled build, run them in a emulator. To specify the resolution, use the `-skin` option.
-
-    emulator -skin 1280x800
-
 Useful Links
 ------------
 
