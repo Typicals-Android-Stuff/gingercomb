@@ -163,7 +163,7 @@
   <project name="platform/packages/inputmethods/PinyinIME" path="packages/inputmethods/PinyinIME" revision="8c8df623b7097b008856c28b874a99a231eb278a"/>
   <project name="platform/packages/providers/ApplicationsProvider" path="packages/providers/ApplicationsProvider" revision="7089c89c9ec21f28326ac6a9e9e91344749a02e0"/>
   <project name="platform/packages/providers/CalendarProvider" path="packages/providers/CalendarProvider" revision="403fc93c3a4e5e58af1291ef9db0884d75c6b5cf"/>
-  <project name="platform/packages/providers/ContactsProvider" path="packages/providers/ContactsProvider" revision="f262d56495ac4ea30d31bd050efb116bd4bb4235"/>
+  <project name="platform/packages/providers/ContactsProvider" path="packages/providers/ContactsProvider" revision="17a22fae02931ae536f35293ca13a8de53439f72"/>
   <project name="platform/packages/providers/DownloadProvider" path="packages/providers/DownloadProvider" revision="abacb16822867fa0a683d45b396aac77bb807578"/>
   <project name="platform/packages/providers/DrmProvider" path="packages/providers/DrmProvider" revision="f9468995983739ba86038f0ff00c42bdd67a0021"/>
   <project name="platform/packages/providers/MediaProvider" path="packages/providers/MediaProvider" revision="65587f9c204abb2d179527dfdca009f4780e9743"/>
